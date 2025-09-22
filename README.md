@@ -26,13 +26,13 @@ It supports:
 
 ```
 
-betting_simulation_results # tick-by-tick raw betting simulation results
-dataset/                   # raw and processed datasets used for the paper
-final_compiled_results     # compiled results (metrics) and model betting performance and figures 
-model_metric_json          # saved hyperparameters of the models
-model_performance_results  # model parameters, raw metrics results per model
-notebooks/                 # Analysis notebooks 
-pkl_files                  # saved runned models.
+betting_simulation_results/ # tick-by-tick raw betting simulation results
+dataset/                    # raw and processed datasets used for the paper
+final_compiled_results/     # compiled results (metrics) and model betting performance and figures 
+model_metric_json/          # saved hyperparameters of the models
+model_performance_results/  # model parameters, raw metrics results per model
+notebooks/                  # Analysis notebooks 
+pkl_files/                  # saved ran models.
 ```
 
 ## Setup
