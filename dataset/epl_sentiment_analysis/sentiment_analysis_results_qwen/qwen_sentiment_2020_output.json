@@ -1,0 +1,2946 @@
+[
+    {
+        "id": 592154,
+        "home_team": "Everton",
+        "away_team": "West Brom",
+        "date": "2020-09-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592155,
+        "home_team": "Leeds",
+        "away_team": "Fulham",
+        "date": "2020-09-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592151,
+        "home_team": "Arsenal",
+        "away_team": "West Ham",
+        "date": "2020-09-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592159,
+        "home_team": "Southampton",
+        "away_team": "Tottenham",
+        "date": "2020-09-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592158,
+        "home_team": "Newcastle",
+        "away_team": "Brighton",
+        "date": "2020-09-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592153,
+        "home_team": "Chelsea",
+        "away_team": "Liverpool",
+        "date": "2020-09-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592161,
+        "home_team": "Brighton",
+        "away_team": "Manchester United",
+        "date": "2020-09-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592163,
+        "home_team": "Crystal Palace",
+        "away_team": "Everton",
+        "date": "2020-09-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592169,
+        "home_team": "West Brom",
+        "away_team": "Chelsea",
+        "date": "2020-09-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592162,
+        "home_team": "Burnley",
+        "away_team": "Southampton",
+        "date": "2020-09-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592167,
+        "home_team": "Sheffield Utd",
+        "away_team": "Leeds",
+        "date": "2020-09-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592168,
+        "home_team": "Tottenham",
+        "away_team": "Newcastle",
+        "date": "2020-09-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592166,
+        "home_team": "Manchester City",
+        "away_team": "Leicester",
+        "date": "2020-09-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592170,
+        "home_team": "West Ham",
+        "away_team": "Wolves",
+        "date": "2020-09-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592164,
+        "home_team": "Fulham",
+        "away_team": "Aston Villa",
+        "date": "2020-09-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592165,
+        "home_team": "Liverpool",
+        "away_team": "Arsenal",
+        "date": "2020-09-28",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592173,
+        "home_team": "Chelsea",
+        "away_team": "Crystal Palace",
+        "date": "2020-10-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592174,
+        "home_team": "Everton",
+        "away_team": "Brighton",
+        "date": "2020-10-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592175,
+        "home_team": "Leeds",
+        "away_team": "Manchester City",
+        "date": "2020-10-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592178,
+        "home_team": "Newcastle",
+        "away_team": "Burnley",
+        "date": "2020-10-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592179,
+        "home_team": "Southampton",
+        "away_team": "West Brom",
+        "date": "2020-10-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592176,
+        "home_team": "Leicester",
+        "away_team": "West Ham",
+        "date": "2020-10-04",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592180,
+        "home_team": "Wolves",
+        "away_team": "Fulham",
+        "date": "2020-10-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592171,
+        "home_team": "Arsenal",
+        "away_team": "Sheffield Utd",
+        "date": "2020-10-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592177,
+        "home_team": "Manchester United",
+        "away_team": "Tottenham",
+        "date": "2020-10-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592172,
+        "home_team": "Aston Villa",
+        "away_team": "Liverpool",
+        "date": "2020-10-04",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592183,
+        "home_team": "Everton",
+        "away_team": "Liverpool",
+        "date": "2020-10-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592181,
+        "home_team": "Chelsea",
+        "away_team": "Southampton",
+        "date": "2020-10-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592186,
+        "home_team": "Manchester City",
+        "away_team": "Arsenal",
+        "date": "2020-10-17",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592187,
+        "home_team": "Newcastle",
+        "away_team": "Manchester United",
+        "date": "2020-10-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592188,
+        "home_team": "Sheffield Utd",
+        "away_team": "Fulham",
+        "date": "2020-10-18",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592182,
+        "home_team": "Crystal Palace",
+        "away_team": "Brighton",
+        "date": "2020-10-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592189,
+        "home_team": "Tottenham",
+        "away_team": "West Ham",
+        "date": "2020-10-18",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592185,
+        "home_team": "Leicester",
+        "away_team": "Aston Villa",
+        "date": "2020-10-18",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592190,
+        "home_team": "West Brom",
+        "away_team": "Burnley",
+        "date": "2020-10-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592184,
+        "home_team": "Leeds",
+        "away_team": "Wolves",
+        "date": "2020-10-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592192,
+        "home_team": "Aston Villa",
+        "away_team": "Leeds",
+        "date": "2020-10-23",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592199,
+        "home_team": "West Ham",
+        "away_team": "Manchester City",
+        "date": "2020-10-24",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592195,
+        "home_team": "Fulham",
+        "away_team": "Crystal Palace",
+        "date": "2020-10-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592197,
+        "home_team": "Manchester United",
+        "away_team": "Chelsea",
+        "date": "2020-10-24",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592196,
+        "home_team": "Liverpool",
+        "away_team": "Sheffield Utd",
+        "date": "2020-10-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592198,
+        "home_team": "Southampton",
+        "away_team": "Everton",
+        "date": "2020-10-25",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592200,
+        "home_team": "Wolves",
+        "away_team": "Newcastle",
+        "date": "2020-10-25",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592191,
+        "home_team": "Arsenal",
+        "away_team": "Leicester",
+        "date": "2020-10-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592193,
+        "home_team": "Brighton",
+        "away_team": "West Brom",
+        "date": "2020-10-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592194,
+        "home_team": "Burnley",
+        "away_team": "Tottenham",
+        "date": "2020-10-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592210,
+        "home_team": "Wolves",
+        "away_team": "Crystal Palace",
+        "date": "2020-10-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592208,
+        "home_team": "Sheffield Utd",
+        "away_team": "Manchester City",
+        "date": "2020-10-31",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592202,
+        "home_team": "Burnley",
+        "away_team": "Chelsea",
+        "date": "2020-10-31",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592205,
+        "home_team": "Liverpool",
+        "away_team": "West Ham",
+        "date": "2020-10-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592201,
+        "home_team": "Aston Villa",
+        "away_team": "Southampton",
+        "date": "2020-11-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592207,
+        "home_team": "Newcastle",
+        "away_team": "Everton",
+        "date": "2020-11-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592206,
+        "home_team": "Manchester United",
+        "away_team": "Arsenal",
+        "date": "2020-11-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592209,
+        "home_team": "Tottenham",
+        "away_team": "Brighton",
+        "date": "2020-11-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592203,
+        "home_team": "Fulham",
+        "away_team": "West Brom",
+        "date": "2020-11-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592204,
+        "home_team": "Leeds",
+        "away_team": "Leicester",
+        "date": "2020-11-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592212,
+        "home_team": "Brighton",
+        "away_team": "Burnley",
+        "date": "2020-11-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592218,
+        "home_team": "Southampton",
+        "away_team": "Newcastle",
+        "date": "2020-11-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592215,
+        "home_team": "Everton",
+        "away_team": "Manchester United",
+        "date": "2020-11-07",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592214,
+        "home_team": "Crystal Palace",
+        "away_team": "Leeds",
+        "date": "2020-11-07",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592213,
+        "home_team": "Chelsea",
+        "away_team": "Sheffield Utd",
+        "date": "2020-11-07",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592220,
+        "home_team": "West Ham",
+        "away_team": "Fulham",
+        "date": "2020-11-07",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592219,
+        "home_team": "West Brom",
+        "away_team": "Tottenham",
+        "date": "2020-11-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592216,
+        "home_team": "Leicester",
+        "away_team": "Wolves",
+        "date": "2020-11-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592217,
+        "home_team": "Manchester City",
+        "away_team": "Liverpool",
+        "date": "2020-11-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592211,
+        "home_team": "Arsenal",
+        "away_team": "Aston Villa",
+        "date": "2020-11-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592227,
+        "home_team": "Newcastle",
+        "away_team": "Chelsea",
+        "date": "2020-11-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592221,
+        "home_team": "Aston Villa",
+        "away_team": "Brighton",
+        "date": "2020-11-21",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592229,
+        "home_team": "Tottenham",
+        "away_team": "Manchester City",
+        "date": "2020-11-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592226,
+        "home_team": "Manchester United",
+        "away_team": "West Brom",
+        "date": "2020-11-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592223,
+        "home_team": "Fulham",
+        "away_team": "Everton",
+        "date": "2020-11-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592228,
+        "home_team": "Sheffield Utd",
+        "away_team": "West Ham",
+        "date": "2020-11-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592224,
+        "home_team": "Leeds",
+        "away_team": "Arsenal",
+        "date": "2020-11-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592225,
+        "home_team": "Liverpool",
+        "away_team": "Leicester",
+        "date": "2020-11-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592222,
+        "home_team": "Burnley",
+        "away_team": "Crystal Palace",
+        "date": "2020-11-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592230,
+        "home_team": "Wolves",
+        "away_team": "Southampton",
+        "date": "2020-11-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592234,
+        "home_team": "Crystal Palace",
+        "away_team": "Newcastle",
+        "date": "2020-11-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592232,
+        "home_team": "Brighton",
+        "away_team": "Liverpool",
+        "date": "2020-11-28",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592237,
+        "home_team": "Manchester City",
+        "away_team": "Burnley",
+        "date": "2020-11-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592235,
+        "home_team": "Everton",
+        "away_team": "Leeds",
+        "date": "2020-11-28",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592239,
+        "home_team": "West Brom",
+        "away_team": "Sheffield Utd",
+        "date": "2020-11-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592238,
+        "home_team": "Southampton",
+        "away_team": "Manchester United",
+        "date": "2020-11-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592233,
+        "home_team": "Chelsea",
+        "away_team": "Tottenham",
+        "date": "2020-11-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592231,
+        "home_team": "Arsenal",
+        "away_team": "Wolves",
+        "date": "2020-11-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592236,
+        "home_team": "Leicester",
+        "away_team": "Fulham",
+        "date": "2020-11-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592240,
+        "home_team": "West Ham",
+        "away_team": "Aston Villa",
+        "date": "2020-11-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592243,
+        "home_team": "Burnley",
+        "away_team": "Everton",
+        "date": "2020-12-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592246,
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "date": "2020-12-05",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592250,
+        "home_team": "West Ham",
+        "away_team": "Manchester United",
+        "date": "2020-12-05",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592244,
+        "home_team": "Chelsea",
+        "away_team": "Leeds",
+        "date": "2020-12-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592249,
+        "home_team": "West Brom",
+        "away_team": "Crystal Palace",
+        "date": "2020-12-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592247,
+        "home_team": "Sheffield Utd",
+        "away_team": "Leicester",
+        "date": "2020-12-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592248,
+        "home_team": "Tottenham",
+        "away_team": "Arsenal",
+        "date": "2020-12-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592245,
+        "home_team": "Liverpool",
+        "away_team": "Wolves",
+        "date": "2020-12-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592242,
+        "home_team": "Brighton",
+        "away_team": "Southampton",
+        "date": "2020-12-07",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592255,
+        "home_team": "Leeds",
+        "away_team": "West Ham",
+        "date": "2020-12-11",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592260,
+        "home_team": "Wolves",
+        "away_team": "Aston Villa",
+        "date": "2020-12-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592258,
+        "home_team": "Newcastle",
+        "away_team": "West Brom",
+        "date": "2020-12-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592257,
+        "home_team": "Manchester United",
+        "away_team": "Manchester City",
+        "date": "2020-12-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592253,
+        "home_team": "Everton",
+        "away_team": "Chelsea",
+        "date": "2020-12-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592259,
+        "home_team": "Southampton",
+        "away_team": "Sheffield Utd",
+        "date": "2020-12-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592252,
+        "home_team": "Crystal Palace",
+        "away_team": "Tottenham",
+        "date": "2020-12-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592254,
+        "home_team": "Fulham",
+        "away_team": "Liverpool",
+        "date": "2020-12-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592251,
+        "home_team": "Arsenal",
+        "away_team": "Burnley",
+        "date": "2020-12-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592256,
+        "home_team": "Leicester",
+        "away_team": "Brighton",
+        "date": "2020-12-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592268,
+        "home_team": "Wolves",
+        "away_team": "Chelsea",
+        "date": "2020-12-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592270,
+        "home_team": "Manchester City",
+        "away_team": "West Brom",
+        "date": "2020-12-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592261,
+        "home_team": "Arsenal",
+        "away_team": "Southampton",
+        "date": "2020-12-16",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592265,
+        "home_team": "Leicester",
+        "away_team": "Everton",
+        "date": "2020-12-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592264,
+        "home_team": "Leeds",
+        "away_team": "Newcastle",
+        "date": "2020-12-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592263,
+        "home_team": "Fulham",
+        "away_team": "Brighton",
+        "date": "2020-12-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592269,
+        "home_team": "Liverpool",
+        "away_team": "Tottenham",
+        "date": "2020-12-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592267,
+        "home_team": "West Ham",
+        "away_team": "Crystal Palace",
+        "date": "2020-12-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592262,
+        "home_team": "Aston Villa",
+        "away_team": "Burnley",
+        "date": "2020-12-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592266,
+        "home_team": "Sheffield Utd",
+        "away_team": "Manchester United",
+        "date": "2020-12-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592274,
+        "home_team": "Crystal Palace",
+        "away_team": "Liverpool",
+        "date": "2020-12-19",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592278,
+        "home_team": "Southampton",
+        "away_team": "Manchester City",
+        "date": "2020-12-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592275,
+        "home_team": "Everton",
+        "away_team": "Arsenal",
+        "date": "2020-12-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592277,
+        "home_team": "Newcastle",
+        "away_team": "Fulham",
+        "date": "2020-12-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592271,
+        "home_team": "Brighton",
+        "away_team": "Sheffield Utd",
+        "date": "2020-12-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592279,
+        "home_team": "Tottenham",
+        "away_team": "Leicester",
+        "date": "2020-12-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592276,
+        "home_team": "Manchester United",
+        "away_team": "Leeds",
+        "date": "2020-12-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592280,
+        "home_team": "West Brom",
+        "away_team": "Aston Villa",
+        "date": "2020-12-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592272,
+        "home_team": "Burnley",
+        "away_team": "Wolves",
+        "date": "2020-12-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592273,
+        "home_team": "Chelsea",
+        "away_team": "West Ham",
+        "date": "2020-12-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592285,
+        "home_team": "Leicester",
+        "away_team": "Manchester United",
+        "date": "2020-12-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592283,
+        "home_team": "Fulham",
+        "away_team": "Southampton",
+        "date": "2020-12-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592282,
+        "home_team": "Aston Villa",
+        "away_team": "Crystal Palace",
+        "date": "2020-12-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592281,
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "date": "2020-12-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592287,
+        "home_team": "Manchester City",
+        "away_team": "Newcastle",
+        "date": "2020-12-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592288,
+        "home_team": "Sheffield Utd",
+        "away_team": "Everton",
+        "date": "2020-12-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592284,
+        "home_team": "Leeds",
+        "away_team": "Burnley",
+        "date": "2020-12-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592289,
+        "home_team": "West Ham",
+        "away_team": "Brighton",
+        "date": "2020-12-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592286,
+        "home_team": "Liverpool",
+        "away_team": "West Brom",
+        "date": "2020-12-27",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592290,
+        "home_team": "Wolves",
+        "away_team": "Tottenham",
+        "date": "2020-12-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592294,
+        "home_team": "Crystal Palace",
+        "away_team": "Leicester",
+        "date": "2020-12-28",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592293,
+        "home_team": "Chelsea",
+        "away_team": "Aston Villa",
+        "date": "2020-12-28",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592298,
+        "home_team": "Southampton",
+        "away_team": "West Ham",
+        "date": "2020-12-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592292,
+        "home_team": "Burnley",
+        "away_team": "Sheffield Utd",
+        "date": "2020-12-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592291,
+        "home_team": "Brighton",
+        "away_team": "Arsenal",
+        "date": "2020-12-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592300,
+        "home_team": "West Brom",
+        "away_team": "Leeds",
+        "date": "2020-12-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592296,
+        "home_team": "Manchester United",
+        "away_team": "Wolves",
+        "date": "2020-12-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592297,
+        "home_team": "Newcastle",
+        "away_team": "Liverpool",
+        "date": "2020-12-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592305,
+        "home_team": "Everton",
+        "away_team": "West Ham",
+        "date": "2021-01-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592306,
+        "home_team": "Manchester United",
+        "away_team": "Aston Villa",
+        "date": "2021-01-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592309,
+        "home_team": "Tottenham",
+        "away_team": "Leeds",
+        "date": "2021-01-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592304,
+        "home_team": "Crystal Palace",
+        "away_team": "Sheffield Utd",
+        "date": "2021-01-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592301,
+        "home_team": "Brighton",
+        "away_team": "Wolves",
+        "date": "2021-01-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592310,
+        "home_team": "West Brom",
+        "away_team": "Arsenal",
+        "date": "2021-01-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592307,
+        "home_team": "Newcastle",
+        "away_team": "Leicester",
+        "date": "2021-01-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592303,
+        "home_team": "Chelsea",
+        "away_team": "Manchester City",
+        "date": "2021-01-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592308,
+        "home_team": "Southampton",
+        "away_team": "Liverpool",
+        "date": "2021-01-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592316,
+        "home_team": "Sheffield Utd",
+        "away_team": "Newcastle",
+        "date": "2021-01-12",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592318,
+        "home_team": "Wolves",
+        "away_team": "Everton",
+        "date": "2021-01-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592141,
+        "home_team": "Burnley",
+        "away_team": "Manchester United",
+        "date": "2021-01-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592320,
+        "home_team": "Manchester City",
+        "away_team": "Brighton",
+        "date": "2021-01-13",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592299,
+        "home_team": "Tottenham",
+        "away_team": "Fulham",
+        "date": "2021-01-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592311,
+        "home_team": "Arsenal",
+        "away_team": "Crystal Palace",
+        "date": "2021-01-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592330,
+        "home_team": "Wolves",
+        "away_team": "West Brom",
+        "date": "2021-01-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592329,
+        "home_team": "West Ham",
+        "away_team": "Burnley",
+        "date": "2021-01-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592324,
+        "home_team": "Leeds",
+        "away_team": "Brighton",
+        "date": "2021-01-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592323,
+        "home_team": "Fulham",
+        "away_team": "Chelsea",
+        "date": "2021-01-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592325,
+        "home_team": "Leicester",
+        "away_team": "Southampton",
+        "date": "2021-01-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592328,
+        "home_team": "Sheffield Utd",
+        "away_team": "Tottenham",
+        "date": "2021-01-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592326,
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "date": "2021-01-17",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592327,
+        "home_team": "Manchester City",
+        "away_team": "Crystal Palace",
+        "date": "2021-01-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592321,
+        "home_team": "Arsenal",
+        "away_team": "Newcastle",
+        "date": "2021-01-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592317,
+        "home_team": "West Ham",
+        "away_team": "West Brom",
+        "date": "2021-01-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592315,
+        "home_team": "Leicester",
+        "away_team": "Chelsea",
+        "date": "2021-01-19",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592145,
+        "home_team": "Manchester City",
+        "away_team": "Aston Villa",
+        "date": "2021-01-20",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592313,
+        "home_team": "Fulham",
+        "away_team": "Manchester United",
+        "date": "2021-01-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592319,
+        "home_team": "Liverpool",
+        "away_team": "Burnley",
+        "date": "2021-01-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592241,
+        "home_team": "Aston Villa",
+        "away_team": "Newcastle",
+        "date": "2021-01-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592337,
+        "home_team": "Newcastle",
+        "away_team": "Leeds",
+        "date": "2021-01-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592340,
+        "home_team": "Crystal Palace",
+        "away_team": "West Ham",
+        "date": "2021-01-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592338,
+        "home_team": "Southampton",
+        "away_team": "Arsenal",
+        "date": "2021-01-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592335,
+        "home_team": "West Brom",
+        "away_team": "Manchester City",
+        "date": "2021-01-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592332,
+        "home_team": "Burnley",
+        "away_team": "Aston Villa",
+        "date": "2021-01-27",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592336,
+        "home_team": "Chelsea",
+        "away_team": "Wolves",
+        "date": "2021-01-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592331,
+        "home_team": "Brighton",
+        "away_team": "Fulham",
+        "date": "2021-01-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592334,
+        "home_team": "Manchester United",
+        "away_team": "Sheffield Utd",
+        "date": "2021-01-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592333,
+        "home_team": "Everton",
+        "away_team": "Leicester",
+        "date": "2021-01-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592339,
+        "home_team": "Tottenham",
+        "away_team": "Liverpool",
+        "date": "2021-01-28",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592345,
+        "home_team": "Everton",
+        "away_team": "Newcastle",
+        "date": "2021-01-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592347,
+        "home_team": "Manchester City",
+        "away_team": "Sheffield Utd",
+        "date": "2021-01-30",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592344,
+        "home_team": "Crystal Palace",
+        "away_team": "Wolves",
+        "date": "2021-01-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592349,
+        "home_team": "West Brom",
+        "away_team": "Fulham",
+        "date": "2021-01-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592341,
+        "home_team": "Arsenal",
+        "away_team": "Manchester United",
+        "date": "2021-01-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592348,
+        "home_team": "Southampton",
+        "away_team": "Aston Villa",
+        "date": "2021-01-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592343,
+        "home_team": "Chelsea",
+        "away_team": "Burnley",
+        "date": "2021-01-31",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592346,
+        "home_team": "Leicester",
+        "away_team": "Leeds",
+        "date": "2021-01-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592350,
+        "home_team": "West Ham",
+        "away_team": "Liverpool",
+        "date": "2021-01-31",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592342,
+        "home_team": "Brighton",
+        "away_team": "Tottenham",
+        "date": "2021-01-31",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592356,
+        "home_team": "Wolves",
+        "away_team": "Arsenal",
+        "date": "2021-02-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592355,
+        "home_team": "Sheffield Utd",
+        "away_team": "West Brom",
+        "date": "2021-02-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592357,
+        "home_team": "Manchester United",
+        "away_team": "Southampton",
+        "date": "2021-02-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592358,
+        "home_team": "Newcastle",
+        "away_team": "Crystal Palace",
+        "date": "2021-02-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592353,
+        "home_team": "Fulham",
+        "away_team": "Leicester",
+        "date": "2021-02-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592352,
+        "home_team": "Burnley",
+        "away_team": "Manchester City",
+        "date": "2021-02-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592354,
+        "home_team": "Leeds",
+        "away_team": "Everton",
+        "date": "2021-02-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592360,
+        "home_team": "Liverpool",
+        "away_team": "Brighton",
+        "date": "2021-02-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592351,
+        "home_team": "Aston Villa",
+        "away_team": "West Ham",
+        "date": "2021-02-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592359,
+        "home_team": "Tottenham",
+        "away_team": "Chelsea",
+        "date": "2021-02-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592361,
+        "home_team": "Aston Villa",
+        "away_team": "Arsenal",
+        "date": "2021-02-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592367,
+        "home_team": "Newcastle",
+        "away_team": "Southampton",
+        "date": "2021-02-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592362,
+        "home_team": "Burnley",
+        "away_team": "Brighton",
+        "date": "2021-02-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592363,
+        "home_team": "Fulham",
+        "away_team": "West Ham",
+        "date": "2021-02-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592366,
+        "home_team": "Manchester United",
+        "away_team": "Everton",
+        "date": "2021-02-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592369,
+        "home_team": "Tottenham",
+        "away_team": "West Brom",
+        "date": "2021-02-07",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592370,
+        "home_team": "Wolves",
+        "away_team": "Leicester",
+        "date": "2021-02-07",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592365,
+        "home_team": "Liverpool",
+        "away_team": "Manchester City",
+        "date": "2021-02-07",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592368,
+        "home_team": "Sheffield Utd",
+        "away_team": "Chelsea",
+        "date": "2021-02-07",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592364,
+        "home_team": "Leeds",
+        "away_team": "Crystal Palace",
+        "date": "2021-02-08",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592731,
+        "home_team": "Leicester",
+        "away_team": "Liverpool",
+        "date": "2021-02-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592729,
+        "home_team": "Crystal Palace",
+        "away_team": "Burnley",
+        "date": "2021-02-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592732,
+        "home_team": "Manchester City",
+        "away_team": "Tottenham",
+        "date": "2021-02-13",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592727,
+        "home_team": "Brighton",
+        "away_team": "Aston Villa",
+        "date": "2021-02-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592733,
+        "home_team": "Southampton",
+        "away_team": "Wolves",
+        "date": "2021-02-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592734,
+        "home_team": "West Brom",
+        "away_team": "Manchester United",
+        "date": "2021-02-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592726,
+        "home_team": "Arsenal",
+        "away_team": "Leeds",
+        "date": "2021-02-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592730,
+        "home_team": "Everton",
+        "away_team": "Fulham",
+        "date": "2021-02-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592735,
+        "home_team": "West Ham",
+        "away_team": "Sheffield Utd",
+        "date": "2021-02-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592728,
+        "home_team": "Chelsea",
+        "away_team": "Newcastle",
+        "date": "2021-02-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592302,
+        "home_team": "Burnley",
+        "away_team": "Fulham",
+        "date": "2021-02-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592295,
+        "home_team": "Everton",
+        "away_team": "Manchester City",
+        "date": "2021-02-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592745,
+        "home_team": "Wolves",
+        "away_team": "Leeds",
+        "date": "2021-02-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592743,
+        "home_team": "Southampton",
+        "away_team": "Chelsea",
+        "date": "2021-02-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592739,
+        "home_team": "Burnley",
+        "away_team": "West Brom",
+        "date": "2021-02-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592741,
+        "home_team": "Liverpool",
+        "away_team": "Everton",
+        "date": "2021-02-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592740,
+        "home_team": "Fulham",
+        "away_team": "Sheffield Utd",
+        "date": "2021-02-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592744,
+        "home_team": "West Ham",
+        "away_team": "Tottenham",
+        "date": "2021-02-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592737,
+        "home_team": "Aston Villa",
+        "away_team": "Leicester",
+        "date": "2021-02-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592736,
+        "home_team": "Arsenal",
+        "away_team": "Manchester City",
+        "date": "2021-02-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592742,
+        "home_team": "Manchester United",
+        "away_team": "Newcastle",
+        "date": "2021-02-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592738,
+        "home_team": "Brighton",
+        "away_team": "Crystal Palace",
+        "date": "2021-02-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592314,
+        "home_team": "Leeds",
+        "away_team": "Southampton",
+        "date": "2021-02-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592751,
+        "home_team": "Manchester City",
+        "away_team": "West Ham",
+        "date": "2021-02-27",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592755,
+        "home_team": "West Brom",
+        "away_team": "Brighton",
+        "date": "2021-02-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592749,
+        "home_team": "Leeds",
+        "away_team": "Aston Villa",
+        "date": "2021-02-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592752,
+        "home_team": "Newcastle",
+        "away_team": "Wolves",
+        "date": "2021-02-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592750,
+        "home_team": "Leicester",
+        "away_team": "Arsenal",
+        "date": "2021-02-28",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592747,
+        "home_team": "Crystal Palace",
+        "away_team": "Fulham",
+        "date": "2021-02-28",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592754,
+        "home_team": "Tottenham",
+        "away_team": "Burnley",
+        "date": "2021-02-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592746,
+        "home_team": "Chelsea",
+        "away_team": "Manchester United",
+        "date": "2021-02-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592753,
+        "home_team": "Sheffield Utd",
+        "away_team": "Liverpool",
+        "date": "2021-02-28",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592748,
+        "home_team": "Everton",
+        "away_team": "Southampton",
+        "date": "2021-03-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592781,
+        "home_team": "Manchester City",
+        "away_team": "Wolves",
+        "date": "2021-03-02",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592777,
+        "home_team": "Burnley",
+        "away_team": "Leicester",
+        "date": "2021-03-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592782,
+        "home_team": "Sheffield Utd",
+        "away_team": "Aston Villa",
+        "date": "2021-03-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592778,
+        "home_team": "Crystal Palace",
+        "away_team": "Manchester United",
+        "date": "2021-03-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592818,
+        "home_team": "Fulham",
+        "away_team": "Tottenham",
+        "date": "2021-03-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592784,
+        "home_team": "West Brom",
+        "away_team": "Everton",
+        "date": "2021-03-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592780,
+        "home_team": "Liverpool",
+        "away_team": "Chelsea",
+        "date": "2021-03-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592758,
+        "home_team": "Burnley",
+        "away_team": "Arsenal",
+        "date": "2021-03-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592762,
+        "home_team": "Sheffield Utd",
+        "away_team": "Southampton",
+        "date": "2021-03-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592756,
+        "home_team": "Aston Villa",
+        "away_team": "Wolves",
+        "date": "2021-03-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592757,
+        "home_team": "Brighton",
+        "away_team": "Leicester",
+        "date": "2021-03-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592764,
+        "home_team": "West Brom",
+        "away_team": "Newcastle",
+        "date": "2021-03-07",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592760,
+        "home_team": "Liverpool",
+        "away_team": "Fulham",
+        "date": "2021-03-07",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592761,
+        "home_team": "Manchester City",
+        "away_team": "Manchester United",
+        "date": "2021-03-07",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592763,
+        "home_team": "Tottenham",
+        "away_team": "Crystal Palace",
+        "date": "2021-03-07",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592759,
+        "home_team": "Chelsea",
+        "away_team": "Everton",
+        "date": "2021-03-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592765,
+        "home_team": "West Ham",
+        "away_team": "Leeds",
+        "date": "2021-03-08",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592822,
+        "home_team": "Manchester City",
+        "away_team": "Southampton",
+        "date": "2021-03-10",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592773,
+        "home_team": "Newcastle",
+        "away_team": "Aston Villa",
+        "date": "2021-03-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592770,
+        "home_team": "Leeds",
+        "away_team": "Chelsea",
+        "date": "2021-03-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592767,
+        "home_team": "Crystal Palace",
+        "away_team": "West Brom",
+        "date": "2021-03-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592768,
+        "home_team": "Everton",
+        "away_team": "Burnley",
+        "date": "2021-03-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592769,
+        "home_team": "Fulham",
+        "away_team": "Manchester City",
+        "date": "2021-03-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592774,
+        "home_team": "Southampton",
+        "away_team": "Brighton",
+        "date": "2021-03-14",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592771,
+        "home_team": "Leicester",
+        "away_team": "Sheffield Utd",
+        "date": "2021-03-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592766,
+        "home_team": "Arsenal",
+        "away_team": "Tottenham",
+        "date": "2021-03-14",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592772,
+        "home_team": "Manchester United",
+        "away_team": "West Ham",
+        "date": "2021-03-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592775,
+        "home_team": "Wolves",
+        "away_team": "Liverpool",
+        "date": "2021-03-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592779,
+        "home_team": "Fulham",
+        "away_team": "Leeds",
+        "date": "2021-03-19",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592776,
+        "home_team": "Brighton",
+        "away_team": "Newcastle",
+        "date": "2021-03-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592785,
+        "home_team": "West Ham",
+        "away_team": "Arsenal",
+        "date": "2021-03-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592312,
+        "home_team": "Aston Villa",
+        "away_team": "Tottenham",
+        "date": "2021-03-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592788,
+        "home_team": "Chelsea",
+        "away_team": "West Brom",
+        "date": "2021-04-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592790,
+        "home_team": "Leeds",
+        "away_team": "Sheffield Utd",
+        "date": "2021-04-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592791,
+        "home_team": "Leicester",
+        "away_team": "Manchester City",
+        "date": "2021-04-03",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592786,
+        "home_team": "Arsenal",
+        "away_team": "Liverpool",
+        "date": "2021-04-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592794,
+        "home_team": "Southampton",
+        "away_team": "Burnley",
+        "date": "2021-04-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592793,
+        "home_team": "Newcastle",
+        "away_team": "Tottenham",
+        "date": "2021-04-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592787,
+        "home_team": "Aston Villa",
+        "away_team": "Fulham",
+        "date": "2021-04-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592792,
+        "home_team": "Manchester United",
+        "away_team": "Brighton",
+        "date": "2021-04-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592789,
+        "home_team": "Everton",
+        "away_team": "Crystal Palace",
+        "date": "2021-04-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592795,
+        "home_team": "Wolves",
+        "away_team": "West Ham",
+        "date": "2021-04-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592799,
+        "home_team": "Fulham",
+        "away_team": "Wolves",
+        "date": "2021-04-09",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592801,
+        "home_team": "Manchester City",
+        "away_team": "Leeds",
+        "date": "2021-04-10",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592800,
+        "home_team": "Liverpool",
+        "away_team": "Aston Villa",
+        "date": "2021-04-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592798,
+        "home_team": "Crystal Palace",
+        "away_team": "Chelsea",
+        "date": "2021-04-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592797,
+        "home_team": "Burnley",
+        "away_team": "Newcastle",
+        "date": "2021-04-11",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592805,
+        "home_team": "West Ham",
+        "away_team": "Leicester",
+        "date": "2021-04-11",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592803,
+        "home_team": "Tottenham",
+        "away_team": "Manchester United",
+        "date": "2021-04-11",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592802,
+        "home_team": "Sheffield Utd",
+        "away_team": "Arsenal",
+        "date": "2021-04-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592804,
+        "home_team": "West Brom",
+        "away_team": "Southampton",
+        "date": "2021-04-12",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592796,
+        "home_team": "Brighton",
+        "away_team": "Everton",
+        "date": "2021-04-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592809,
+        "home_team": "Everton",
+        "away_team": "Tottenham",
+        "date": "2021-04-16",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592813,
+        "home_team": "Newcastle",
+        "away_team": "West Ham",
+        "date": "2021-04-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592815,
+        "home_team": "Wolves",
+        "away_team": "Sheffield Utd",
+        "date": "2021-04-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592806,
+        "home_team": "Arsenal",
+        "away_team": "Fulham",
+        "date": "2021-04-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592812,
+        "home_team": "Manchester United",
+        "away_team": "Burnley",
+        "date": "2021-04-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592810,
+        "home_team": "Leeds",
+        "away_team": "Liverpool",
+        "date": "2021-04-19",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592808,
+        "home_team": "Chelsea",
+        "away_team": "Brighton",
+        "date": "2021-04-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592783,
+        "home_team": "Tottenham",
+        "away_team": "Southampton",
+        "date": "2021-04-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592807,
+        "home_team": "Aston Villa",
+        "away_team": "Manchester City",
+        "date": "2021-04-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592811,
+        "home_team": "Leicester",
+        "away_team": "West Brom",
+        "date": "2021-04-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592816,
+        "home_team": "Arsenal",
+        "away_team": "Everton",
+        "date": "2021-04-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592821,
+        "home_team": "Liverpool",
+        "away_team": "Newcastle",
+        "date": "2021-04-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592824,
+        "home_team": "West Ham",
+        "away_team": "Chelsea",
+        "date": "2021-04-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592823,
+        "home_team": "Sheffield Utd",
+        "away_team": "Brighton",
+        "date": "2021-04-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592825,
+        "home_team": "Wolves",
+        "away_team": "Burnley",
+        "date": "2021-04-25",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592819,
+        "home_team": "Leeds",
+        "away_team": "Manchester United",
+        "date": "2021-04-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592817,
+        "home_team": "Aston Villa",
+        "away_team": "West Brom",
+        "date": "2021-04-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592820,
+        "home_team": "Leicester",
+        "away_team": "Crystal Palace",
+        "date": "2021-04-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592833,
+        "home_team": "Southampton",
+        "away_team": "Leicester",
+        "date": "2021-04-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592829,
+        "home_team": "Crystal Palace",
+        "away_team": "Manchester City",
+        "date": "2021-05-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592826,
+        "home_team": "Brighton",
+        "away_team": "Leeds",
+        "date": "2021-05-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592828,
+        "home_team": "Chelsea",
+        "away_team": "Fulham",
+        "date": "2021-05-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592830,
+        "home_team": "Everton",
+        "away_team": "Aston Villa",
+        "date": "2021-05-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592832,
+        "home_team": "Newcastle",
+        "away_team": "Arsenal",
+        "date": "2021-05-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592834,
+        "home_team": "Tottenham",
+        "away_team": "Sheffield Utd",
+        "date": "2021-05-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592835,
+        "home_team": "West Brom",
+        "away_team": "Wolves",
+        "date": "2021-05-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592827,
+        "home_team": "Burnley",
+        "away_team": "West Ham",
+        "date": "2021-05-03",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592840,
+        "home_team": "Leicester",
+        "away_team": "Newcastle",
+        "date": "2021-05-07",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592839,
+        "home_team": "Leeds",
+        "away_team": "Tottenham",
+        "date": "2021-05-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592843,
+        "home_team": "Sheffield Utd",
+        "away_team": "Crystal Palace",
+        "date": "2021-05-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592842,
+        "home_team": "Manchester City",
+        "away_team": "Chelsea",
+        "date": "2021-05-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592841,
+        "home_team": "Liverpool",
+        "away_team": "Southampton",
+        "date": "2021-05-08",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592845,
+        "home_team": "Wolves",
+        "away_team": "Brighton",
+        "date": "2021-05-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592837,
+        "home_team": "Aston Villa",
+        "away_team": "Manchester United",
+        "date": "2021-05-09",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592844,
+        "home_team": "West Ham",
+        "away_team": "Everton",
+        "date": "2021-05-09",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592836,
+        "home_team": "Arsenal",
+        "away_team": "West Brom",
+        "date": "2021-05-09",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592838,
+        "home_team": "Fulham",
+        "away_team": "Burnley",
+        "date": "2021-05-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592849,
+        "home_team": "Manchester United",
+        "away_team": "Leicester",
+        "date": "2021-05-11",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592814,
+        "home_team": "Southampton",
+        "away_team": "Crystal Palace",
+        "date": "2021-05-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592851,
+        "home_team": "Chelsea",
+        "away_team": "Arsenal",
+        "date": "2021-05-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592322,
+        "home_team": "Aston Villa",
+        "away_team": "Everton",
+        "date": "2021-05-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592831,
+        "home_team": "Manchester United",
+        "away_team": "Liverpool",
+        "date": "2021-05-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592852,
+        "home_team": "Newcastle",
+        "away_team": "Manchester City",
+        "date": "2021-05-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592847,
+        "home_team": "Burnley",
+        "away_team": "Leeds",
+        "date": "2021-05-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592853,
+        "home_team": "Southampton",
+        "away_team": "Fulham",
+        "date": "2021-05-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 592846,
+        "home_team": "Brighton",
+        "away_team": "West Ham",
+        "date": "2021-05-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592855,
+        "home_team": "Crystal Palace",
+        "away_team": "Aston Villa",
+        "date": "2021-05-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592854,
+        "home_team": "Tottenham",
+        "away_team": "Wolves",
+        "date": "2021-05-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592850,
+        "home_team": "West Brom",
+        "away_team": "Liverpool",
+        "date": "2021-05-16",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592848,
+        "home_team": "Everton",
+        "away_team": "Sheffield Utd",
+        "date": "2021-05-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592861,
+        "home_team": "Manchester United",
+        "away_team": "Fulham",
+        "date": "2021-05-18",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592863,
+        "home_team": "Southampton",
+        "away_team": "Leeds",
+        "date": "2021-05-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592856,
+        "home_team": "Brighton",
+        "away_team": "Manchester City",
+        "date": "2021-05-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592858,
+        "home_team": "Chelsea",
+        "away_team": "Leicester",
+        "date": "2021-05-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592862,
+        "home_team": "Newcastle",
+        "away_team": "Sheffield Utd",
+        "date": "2021-05-19",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592860,
+        "home_team": "Everton",
+        "away_team": "Wolves",
+        "date": "2021-05-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592864,
+        "home_team": "Tottenham",
+        "away_team": "Aston Villa",
+        "date": "2021-05-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592859,
+        "home_team": "Crystal Palace",
+        "away_team": "Arsenal",
+        "date": "2021-05-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592857,
+        "home_team": "Burnley",
+        "away_team": "Liverpool",
+        "date": "2021-05-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592865,
+        "home_team": "West Brom",
+        "away_team": "West Ham",
+        "date": "2021-05-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592868,
+        "home_team": "Fulham",
+        "away_team": "Newcastle",
+        "date": "2021-05-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592875,
+        "home_team": "Wolves",
+        "away_team": "Manchester United",
+        "date": "2021-05-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592871,
+        "home_team": "Liverpool",
+        "away_team": "Crystal Palace",
+        "date": "2021-05-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 592866,
+        "home_team": "Arsenal",
+        "away_team": "Brighton",
+        "date": "2021-05-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 592870,
+        "home_team": "Leicester",
+        "away_team": "Tottenham",
+        "date": "2021-05-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592874,
+        "home_team": "West Ham",
+        "away_team": "Southampton",
+        "date": "2021-05-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592872,
+        "home_team": "Manchester City",
+        "away_team": "Everton",
+        "date": "2021-05-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592873,
+        "home_team": "Sheffield Utd",
+        "away_team": "Burnley",
+        "date": "2021-05-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 592869,
+        "home_team": "Leeds",
+        "away_team": "West Brom",
+        "date": "2021-05-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 592867,
+        "home_team": "Aston Villa",
+        "away_team": "Chelsea",
+        "date": "2021-05-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    }
+]

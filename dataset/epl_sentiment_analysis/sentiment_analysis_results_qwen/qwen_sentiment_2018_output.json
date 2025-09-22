@@ -1,0 +1,2962 @@
+[
+    {
+        "id": 75,
+        "home_team": "Cardiff",
+        "away_team": "Newcastle",
+        "date": "2018-08-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 77,
+        "home_team": "Everton",
+        "away_team": "Southampton",
+        "date": "2018-08-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 78,
+        "home_team": "Leicester",
+        "away_team": "Wolves",
+        "date": "2018-08-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 79,
+        "home_team": "Tottenham",
+        "away_team": "Fulham",
+        "date": "2018-08-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 80,
+        "home_team": "West Ham",
+        "away_team": "Bournemouth",
+        "date": "2018-08-18",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 81,
+        "home_team": "Chelsea",
+        "away_team": "Arsenal",
+        "date": "2018-08-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 76,
+        "home_team": "Burnley",
+        "away_team": "Watford",
+        "date": "2018-08-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 82,
+        "home_team": "Manchester City",
+        "away_team": "Huddersfield",
+        "date": "2018-08-19",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 83,
+        "home_team": "Brighton",
+        "away_team": "Manchester United",
+        "date": "2018-08-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 84,
+        "home_team": "Crystal Palace",
+        "away_team": "Liverpool",
+        "date": "2018-08-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 85,
+        "home_team": "Wolves",
+        "away_team": "Manchester City",
+        "date": "2018-08-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 87,
+        "home_team": "Bournemouth",
+        "away_team": "Everton",
+        "date": "2018-08-25",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 89,
+        "home_team": "Huddersfield",
+        "away_team": "Cardiff",
+        "date": "2018-08-25",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 90,
+        "home_team": "Southampton",
+        "away_team": "Leicester",
+        "date": "2018-08-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 86,
+        "home_team": "Arsenal",
+        "away_team": "West Ham",
+        "date": "2018-08-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 91,
+        "home_team": "Liverpool",
+        "away_team": "Brighton",
+        "date": "2018-08-25",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 92,
+        "home_team": "Watford",
+        "away_team": "Crystal Palace",
+        "date": "2018-08-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 93,
+        "home_team": "Newcastle",
+        "away_team": "Chelsea",
+        "date": "2018-08-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 88,
+        "home_team": "Fulham",
+        "away_team": "Burnley",
+        "date": "2018-08-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 94,
+        "home_team": "Manchester United",
+        "away_team": "Tottenham",
+        "date": "2018-08-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 95,
+        "home_team": "Leicester",
+        "away_team": "Liverpool",
+        "date": "2018-09-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 100,
+        "home_team": "Everton",
+        "away_team": "Huddersfield",
+        "date": "2018-09-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 101,
+        "home_team": "West Ham",
+        "away_team": "Wolves",
+        "date": "2018-09-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 98,
+        "home_team": "Chelsea",
+        "away_team": "Bournemouth",
+        "date": "2018-09-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 96,
+        "home_team": "Brighton",
+        "away_team": "Fulham",
+        "date": "2018-09-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 99,
+        "home_team": "Crystal Palace",
+        "away_team": "Southampton",
+        "date": "2018-09-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 102,
+        "home_team": "Manchester City",
+        "away_team": "Newcastle",
+        "date": "2018-09-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 103,
+        "home_team": "Cardiff",
+        "away_team": "Arsenal",
+        "date": "2018-09-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 104,
+        "home_team": "Watford",
+        "away_team": "Tottenham",
+        "date": "2018-09-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 97,
+        "home_team": "Burnley",
+        "away_team": "Manchester United",
+        "date": "2018-09-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 105,
+        "home_team": "Tottenham",
+        "away_team": "Liverpool",
+        "date": "2018-09-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 110,
+        "home_team": "Newcastle",
+        "away_team": "Arsenal",
+        "date": "2018-09-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 106,
+        "home_team": "Bournemouth",
+        "away_team": "Leicester",
+        "date": "2018-09-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 108,
+        "home_team": "Huddersfield",
+        "away_team": "Crystal Palace",
+        "date": "2018-09-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 107,
+        "home_team": "Chelsea",
+        "away_team": "Cardiff",
+        "date": "2018-09-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 109,
+        "home_team": "Manchester City",
+        "away_team": "Fulham",
+        "date": "2018-09-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 111,
+        "home_team": "Watford",
+        "away_team": "Manchester United",
+        "date": "2018-09-15",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 112,
+        "home_team": "Wolves",
+        "away_team": "Burnley",
+        "date": "2018-09-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 113,
+        "home_team": "Everton",
+        "away_team": "West Ham",
+        "date": "2018-09-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 114,
+        "home_team": "Southampton",
+        "away_team": "Brighton",
+        "date": "2018-09-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 115,
+        "home_team": "Fulham",
+        "away_team": "Watford",
+        "date": "2018-09-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 121,
+        "home_team": "Manchester United",
+        "away_team": "Wolves",
+        "date": "2018-09-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 120,
+        "home_team": "Liverpool",
+        "away_team": "Southampton",
+        "date": "2018-09-22",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 117,
+        "home_team": "Cardiff",
+        "away_team": "Manchester City",
+        "date": "2018-09-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 116,
+        "home_team": "Burnley",
+        "away_team": "Bournemouth",
+        "date": "2018-09-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 119,
+        "home_team": "Leicester",
+        "away_team": "Huddersfield",
+        "date": "2018-09-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 118,
+        "home_team": "Crystal Palace",
+        "away_team": "Newcastle",
+        "date": "2018-09-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 122,
+        "home_team": "Brighton",
+        "away_team": "Tottenham",
+        "date": "2018-09-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 123,
+        "home_team": "West Ham",
+        "away_team": "Chelsea",
+        "date": "2018-09-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 124,
+        "home_team": "Arsenal",
+        "away_team": "Everton",
+        "date": "2018-09-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 125,
+        "home_team": "West Ham",
+        "away_team": "Manchester United",
+        "date": "2018-09-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 130,
+        "home_team": "Newcastle",
+        "away_team": "Leicester",
+        "date": "2018-09-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 128,
+        "home_team": "Huddersfield",
+        "away_team": "Tottenham",
+        "date": "2018-09-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 131,
+        "home_team": "Wolves",
+        "away_team": "Southampton",
+        "date": "2018-09-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 126,
+        "home_team": "Arsenal",
+        "away_team": "Watford",
+        "date": "2018-09-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 127,
+        "home_team": "Everton",
+        "away_team": "Fulham",
+        "date": "2018-09-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 129,
+        "home_team": "Manchester City",
+        "away_team": "Brighton",
+        "date": "2018-09-29",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 132,
+        "home_team": "Chelsea",
+        "away_team": "Liverpool",
+        "date": "2018-09-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 133,
+        "home_team": "Cardiff",
+        "away_team": "Burnley",
+        "date": "2018-09-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 134,
+        "home_team": "Bournemouth",
+        "away_team": "Crystal Palace",
+        "date": "2018-10-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 135,
+        "home_team": "Brighton",
+        "away_team": "West Ham",
+        "date": "2018-10-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 144,
+        "home_team": "Watford",
+        "away_team": "Bournemouth",
+        "date": "2018-10-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 136,
+        "home_team": "Burnley",
+        "away_team": "Huddersfield",
+        "date": "2018-10-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 139,
+        "home_team": "Leicester",
+        "away_team": "Everton",
+        "date": "2018-10-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 143,
+        "home_team": "Tottenham",
+        "away_team": "Cardiff",
+        "date": "2018-10-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 137,
+        "home_team": "Crystal Palace",
+        "away_team": "Wolves",
+        "date": "2018-10-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 141,
+        "home_team": "Manchester United",
+        "away_team": "Newcastle",
+        "date": "2018-10-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 138,
+        "home_team": "Fulham",
+        "away_team": "Arsenal",
+        "date": "2018-10-07",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 142,
+        "home_team": "Southampton",
+        "away_team": "Chelsea",
+        "date": "2018-10-07",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 140,
+        "home_team": "Liverpool",
+        "away_team": "Manchester City",
+        "date": "2018-10-07",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 148,
+        "home_team": "Chelsea",
+        "away_team": "Manchester United",
+        "date": "2018-10-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 152,
+        "home_team": "Newcastle",
+        "away_team": "Brighton",
+        "date": "2018-10-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 146,
+        "home_team": "Bournemouth",
+        "away_team": "Southampton",
+        "date": "2018-10-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 154,
+        "home_team": "Wolves",
+        "away_team": "Watford",
+        "date": "2018-10-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 147,
+        "home_team": "Cardiff",
+        "away_team": "Fulham",
+        "date": "2018-10-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 153,
+        "home_team": "West Ham",
+        "away_team": "Tottenham",
+        "date": "2018-10-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 151,
+        "home_team": "Manchester City",
+        "away_team": "Burnley",
+        "date": "2018-10-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 150,
+        "home_team": "Huddersfield",
+        "away_team": "Liverpool",
+        "date": "2018-10-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 149,
+        "home_team": "Everton",
+        "away_team": "Crystal Palace",
+        "date": "2018-10-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 145,
+        "home_team": "Arsenal",
+        "away_team": "Leicester",
+        "date": "2018-10-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 158,
+        "home_team": "Fulham",
+        "away_team": "Bournemouth",
+        "date": "2018-10-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 164,
+        "home_team": "Watford",
+        "away_team": "Huddersfield",
+        "date": "2018-10-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 160,
+        "home_team": "Liverpool",
+        "away_team": "Cardiff",
+        "date": "2018-10-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 162,
+        "home_team": "Southampton",
+        "away_team": "Newcastle",
+        "date": "2018-10-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 155,
+        "home_team": "Brighton",
+        "away_team": "Wolves",
+        "date": "2018-10-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 159,
+        "home_team": "Leicester",
+        "away_team": "West Ham",
+        "date": "2018-10-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 156,
+        "home_team": "Burnley",
+        "away_team": "Chelsea",
+        "date": "2018-10-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 157,
+        "home_team": "Crystal Palace",
+        "away_team": "Arsenal",
+        "date": "2018-10-28",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 161,
+        "home_team": "Manchester United",
+        "away_team": "Everton",
+        "date": "2018-10-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 163,
+        "home_team": "Tottenham",
+        "away_team": "Manchester City",
+        "date": "2018-10-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 166,
+        "home_team": "Bournemouth",
+        "away_team": "Manchester United",
+        "date": "2018-11-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 172,
+        "home_team": "Newcastle",
+        "away_team": "Watford",
+        "date": "2018-11-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 167,
+        "home_team": "Cardiff",
+        "away_team": "Leicester",
+        "date": "2018-11-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 169,
+        "home_team": "Everton",
+        "away_team": "Brighton",
+        "date": "2018-11-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 173,
+        "home_team": "West Ham",
+        "away_team": "Burnley",
+        "date": "2018-11-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 165,
+        "home_team": "Arsenal",
+        "away_team": "Liverpool",
+        "date": "2018-11-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 174,
+        "home_team": "Wolves",
+        "away_team": "Tottenham",
+        "date": "2018-11-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 171,
+        "home_team": "Manchester City",
+        "away_team": "Southampton",
+        "date": "2018-11-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 168,
+        "home_team": "Chelsea",
+        "away_team": "Crystal Palace",
+        "date": "2018-11-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 170,
+        "home_team": "Huddersfield",
+        "away_team": "Fulham",
+        "date": "2018-11-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 176,
+        "home_team": "Cardiff",
+        "away_team": "Brighton",
+        "date": "2018-11-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 183,
+        "home_team": "Newcastle",
+        "away_team": "Bournemouth",
+        "date": "2018-11-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 179,
+        "home_team": "Huddersfield",
+        "away_team": "West Ham",
+        "date": "2018-11-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 184,
+        "home_team": "Southampton",
+        "away_team": "Watford",
+        "date": "2018-11-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 180,
+        "home_team": "Leicester",
+        "away_team": "Burnley",
+        "date": "2018-11-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 178,
+        "home_team": "Crystal Palace",
+        "away_team": "Tottenham",
+        "date": "2018-11-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 181,
+        "home_team": "Liverpool",
+        "away_team": "Fulham",
+        "date": "2018-11-11",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 177,
+        "home_team": "Chelsea",
+        "away_team": "Everton",
+        "date": "2018-11-11",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 175,
+        "home_team": "Arsenal",
+        "away_team": "Wolves",
+        "date": "2018-11-11",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 182,
+        "home_team": "Manchester City",
+        "away_team": "Manchester United",
+        "date": "2018-11-11",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 190,
+        "home_team": "Manchester United",
+        "away_team": "Crystal Palace",
+        "date": "2018-11-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 189,
+        "home_team": "Fulham",
+        "away_team": "Southampton",
+        "date": "2018-11-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 192,
+        "home_team": "Watford",
+        "away_team": "Liverpool",
+        "date": "2018-11-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 188,
+        "home_team": "Everton",
+        "away_team": "Cardiff",
+        "date": "2018-11-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 193,
+        "home_team": "West Ham",
+        "away_team": "Manchester City",
+        "date": "2018-11-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 186,
+        "home_team": "Brighton",
+        "away_team": "Leicester",
+        "date": "2018-11-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 191,
+        "home_team": "Tottenham",
+        "away_team": "Chelsea",
+        "date": "2018-11-24",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 185,
+        "home_team": "Bournemouth",
+        "away_team": "Arsenal",
+        "date": "2018-11-25",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 194,
+        "home_team": "Wolves",
+        "away_team": "Huddersfield",
+        "date": "2018-11-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 187,
+        "home_team": "Burnley",
+        "away_team": "Newcastle",
+        "date": "2018-11-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 196,
+        "home_team": "Cardiff",
+        "away_team": "Wolves",
+        "date": "2018-11-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 203,
+        "home_team": "Newcastle",
+        "away_team": "West Ham",
+        "date": "2018-12-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 199,
+        "home_team": "Huddersfield",
+        "away_team": "Brighton",
+        "date": "2018-12-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 200,
+        "home_team": "Leicester",
+        "away_team": "Watford",
+        "date": "2018-12-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 202,
+        "home_team": "Manchester City",
+        "away_team": "Bournemouth",
+        "date": "2018-12-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 198,
+        "home_team": "Crystal Palace",
+        "away_team": "Burnley",
+        "date": "2018-12-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 204,
+        "home_team": "Southampton",
+        "away_team": "Manchester United",
+        "date": "2018-12-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 197,
+        "home_team": "Chelsea",
+        "away_team": "Fulham",
+        "date": "2018-12-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 195,
+        "home_team": "Arsenal",
+        "away_team": "Tottenham",
+        "date": "2018-12-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 201,
+        "home_team": "Liverpool",
+        "away_team": "Everton",
+        "date": "2018-12-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 205,
+        "home_team": "Bournemouth",
+        "away_team": "Huddersfield",
+        "date": "2018-12-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 210,
+        "home_team": "West Ham",
+        "away_team": "Cardiff",
+        "date": "2018-12-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 206,
+        "home_team": "Brighton",
+        "away_team": "Crystal Palace",
+        "date": "2018-12-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 209,
+        "home_team": "Watford",
+        "away_team": "Manchester City",
+        "date": "2018-12-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 208,
+        "home_team": "Fulham",
+        "away_team": "Leicester",
+        "date": "2018-12-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 211,
+        "home_team": "Wolves",
+        "away_team": "Chelsea",
+        "date": "2018-12-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 207,
+        "home_team": "Burnley",
+        "away_team": "Liverpool",
+        "date": "2018-12-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 213,
+        "home_team": "Everton",
+        "away_team": "Newcastle",
+        "date": "2018-12-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 212,
+        "home_team": "Manchester United",
+        "away_team": "Arsenal",
+        "date": "2018-12-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 214,
+        "home_team": "Tottenham",
+        "away_team": "Southampton",
+        "date": "2018-12-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 216,
+        "home_team": "Bournemouth",
+        "away_team": "Liverpool",
+        "date": "2018-12-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 222,
+        "home_team": "Manchester United",
+        "away_team": "Fulham",
+        "date": "2018-12-08",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 215,
+        "home_team": "Arsenal",
+        "away_team": "Huddersfield",
+        "date": "2018-12-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 218,
+        "home_team": "Cardiff",
+        "away_team": "Southampton",
+        "date": "2018-12-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 217,
+        "home_team": "Burnley",
+        "away_team": "Brighton",
+        "date": "2018-12-08",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 224,
+        "home_team": "West Ham",
+        "away_team": "Crystal Palace",
+        "date": "2018-12-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 219,
+        "home_team": "Chelsea",
+        "away_team": "Manchester City",
+        "date": "2018-12-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 221,
+        "home_team": "Leicester",
+        "away_team": "Tottenham",
+        "date": "2018-12-08",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 223,
+        "home_team": "Newcastle",
+        "away_team": "Wolves",
+        "date": "2018-12-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 220,
+        "home_team": "Everton",
+        "away_team": "Watford",
+        "date": "2018-12-10",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 230,
+        "home_team": "Manchester City",
+        "away_team": "Everton",
+        "date": "2018-12-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 228,
+        "home_team": "Huddersfield",
+        "away_team": "Newcastle",
+        "date": "2018-12-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 233,
+        "home_team": "Watford",
+        "away_team": "Cardiff",
+        "date": "2018-12-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 234,
+        "home_team": "Wolves",
+        "away_team": "Bournemouth",
+        "date": "2018-12-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 232,
+        "home_team": "Tottenham",
+        "away_team": "Burnley",
+        "date": "2018-12-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 226,
+        "home_team": "Crystal Palace",
+        "away_team": "Leicester",
+        "date": "2018-12-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 227,
+        "home_team": "Fulham",
+        "away_team": "West Ham",
+        "date": "2018-12-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 231,
+        "home_team": "Southampton",
+        "away_team": "Arsenal",
+        "date": "2018-12-16",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 225,
+        "home_team": "Brighton",
+        "away_team": "Chelsea",
+        "date": "2018-12-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 229,
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "date": "2018-12-16",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 244,
+        "home_team": "Wolves",
+        "away_team": "Liverpool",
+        "date": "2018-12-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 235,
+        "home_team": "Arsenal",
+        "away_team": "Burnley",
+        "date": "2018-12-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 242,
+        "home_team": "Newcastle",
+        "away_team": "Fulham",
+        "date": "2018-12-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 236,
+        "home_team": "Bournemouth",
+        "away_team": "Brighton",
+        "date": "2018-12-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 240,
+        "home_team": "Huddersfield",
+        "away_team": "Southampton",
+        "date": "2018-12-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 243,
+        "home_team": "West Ham",
+        "away_team": "Watford",
+        "date": "2018-12-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 238,
+        "home_team": "Chelsea",
+        "away_team": "Leicester",
+        "date": "2018-12-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 241,
+        "home_team": "Manchester City",
+        "away_team": "Crystal Palace",
+        "date": "2018-12-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 237,
+        "home_team": "Cardiff",
+        "away_team": "Manchester United",
+        "date": "2018-12-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 239,
+        "home_team": "Everton",
+        "away_team": "Tottenham",
+        "date": "2018-12-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 248,
+        "home_team": "Fulham",
+        "away_team": "Wolves",
+        "date": "2018-12-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 251,
+        "home_team": "Manchester United",
+        "away_team": "Huddersfield",
+        "date": "2018-12-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 250,
+        "home_team": "Liverpool",
+        "away_team": "Newcastle",
+        "date": "2018-12-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 246,
+        "home_team": "Burnley",
+        "away_team": "Everton",
+        "date": "2018-12-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 249,
+        "home_team": "Leicester",
+        "away_team": "Manchester City",
+        "date": "2018-12-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 253,
+        "home_team": "Tottenham",
+        "away_team": "Bournemouth",
+        "date": "2018-12-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 247,
+        "home_team": "Crystal Palace",
+        "away_team": "Cardiff",
+        "date": "2018-12-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 245,
+        "home_team": "Brighton",
+        "away_team": "Arsenal",
+        "date": "2018-12-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 254,
+        "home_team": "Watford",
+        "away_team": "Chelsea",
+        "date": "2018-12-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 252,
+        "home_team": "Southampton",
+        "away_team": "West Ham",
+        "date": "2018-12-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 258,
+        "home_team": "Fulham",
+        "away_team": "Huddersfield",
+        "date": "2018-12-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 264,
+        "home_team": "Watford",
+        "away_team": "Newcastle",
+        "date": "2018-12-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 259,
+        "home_team": "Leicester",
+        "away_team": "Cardiff",
+        "date": "2018-12-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 263,
+        "home_team": "Tottenham",
+        "away_team": "Wolves",
+        "date": "2018-12-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 255,
+        "home_team": "Brighton",
+        "away_team": "Everton",
+        "date": "2018-12-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 260,
+        "home_team": "Liverpool",
+        "away_team": "Arsenal",
+        "date": "2018-12-29",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 257,
+        "home_team": "Crystal Palace",
+        "away_team": "Chelsea",
+        "date": "2018-12-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 262,
+        "home_team": "Southampton",
+        "away_team": "Manchester City",
+        "date": "2018-12-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 256,
+        "home_team": "Burnley",
+        "away_team": "West Ham",
+        "date": "2018-12-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 261,
+        "home_team": "Manchester United",
+        "away_team": "Bournemouth",
+        "date": "2018-12-30",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 269,
+        "home_team": "Everton",
+        "away_team": "Leicester",
+        "date": "2019-01-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 265,
+        "home_team": "Arsenal",
+        "away_team": "Fulham",
+        "date": "2019-01-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 267,
+        "home_team": "Cardiff",
+        "away_team": "Tottenham",
+        "date": "2019-01-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 270,
+        "home_team": "Huddersfield",
+        "away_team": "Burnley",
+        "date": "2019-01-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 274,
+        "home_team": "Wolves",
+        "away_team": "Crystal Palace",
+        "date": "2019-01-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 273,
+        "home_team": "West Ham",
+        "away_team": "Brighton",
+        "date": "2019-01-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 268,
+        "home_team": "Chelsea",
+        "away_team": "Southampton",
+        "date": "2019-01-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 272,
+        "home_team": "Newcastle",
+        "away_team": "Manchester United",
+        "date": "2019-01-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 266,
+        "home_team": "Bournemouth",
+        "away_team": "Watford",
+        "date": "2019-01-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 271,
+        "home_team": "Manchester City",
+        "away_team": "Liverpool",
+        "date": "2019-01-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 284,
+        "home_team": "West Ham",
+        "away_team": "Arsenal",
+        "date": "2019-01-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 277,
+        "home_team": "Cardiff",
+        "away_team": "Huddersfield",
+        "date": "2019-01-12",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 276,
+        "home_team": "Burnley",
+        "away_team": "Fulham",
+        "date": "2019-01-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 281,
+        "home_team": "Leicester",
+        "away_team": "Southampton",
+        "date": "2019-01-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 275,
+        "home_team": "Brighton",
+        "away_team": "Liverpool",
+        "date": "2019-01-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 279,
+        "home_team": "Crystal Palace",
+        "away_team": "Watford",
+        "date": "2019-01-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 278,
+        "home_team": "Chelsea",
+        "away_team": "Newcastle",
+        "date": "2019-01-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 280,
+        "home_team": "Everton",
+        "away_team": "Bournemouth",
+        "date": "2019-01-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 283,
+        "home_team": "Tottenham",
+        "away_team": "Manchester United",
+        "date": "2019-01-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 282,
+        "home_team": "Manchester City",
+        "away_team": "Wolves",
+        "date": "2019-01-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 294,
+        "home_team": "Wolves",
+        "away_team": "Leicester",
+        "date": "2019-01-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 290,
+        "home_team": "Manchester United",
+        "away_team": "Brighton",
+        "date": "2019-01-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 291,
+        "home_team": "Newcastle",
+        "away_team": "Cardiff",
+        "date": "2019-01-19",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 286,
+        "home_team": "Bournemouth",
+        "away_team": "West Ham",
+        "date": "2019-01-19",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 293,
+        "home_team": "Watford",
+        "away_team": "Burnley",
+        "date": "2019-01-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 289,
+        "home_team": "Liverpool",
+        "away_team": "Crystal Palace",
+        "date": "2019-01-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 292,
+        "home_team": "Southampton",
+        "away_team": "Everton",
+        "date": "2019-01-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 285,
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "date": "2019-01-19",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 288,
+        "home_team": "Huddersfield",
+        "away_team": "Manchester City",
+        "date": "2019-01-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 287,
+        "home_team": "Fulham",
+        "away_team": "Tottenham",
+        "date": "2019-01-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 297,
+        "home_team": "Fulham",
+        "away_team": "Brighton",
+        "date": "2019-01-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 298,
+        "home_team": "Huddersfield",
+        "away_team": "Everton",
+        "date": "2019-01-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 299,
+        "home_team": "Wolves",
+        "away_team": "West Ham",
+        "date": "2019-01-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 295,
+        "home_team": "Arsenal",
+        "away_team": "Cardiff",
+        "date": "2019-01-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 300,
+        "home_team": "Manchester United",
+        "away_team": "Burnley",
+        "date": "2019-01-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 301,
+        "home_team": "Newcastle",
+        "away_team": "Manchester City",
+        "date": "2019-01-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 296,
+        "home_team": "Bournemouth",
+        "away_team": "Chelsea",
+        "date": "2019-01-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 302,
+        "home_team": "Southampton",
+        "away_team": "Crystal Palace",
+        "date": "2019-01-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 303,
+        "home_team": "Liverpool",
+        "away_team": "Leicester",
+        "date": "2019-01-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 304,
+        "home_team": "Tottenham",
+        "away_team": "Watford",
+        "date": "2019-01-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 313,
+        "home_team": "Tottenham",
+        "away_team": "Newcastle",
+        "date": "2019-02-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 306,
+        "home_team": "Burnley",
+        "away_team": "Southampton",
+        "date": "2019-02-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 310,
+        "home_team": "Everton",
+        "away_team": "Wolves",
+        "date": "2019-02-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 308,
+        "home_team": "Chelsea",
+        "away_team": "Huddersfield",
+        "date": "2019-02-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 305,
+        "home_team": "Brighton",
+        "away_team": "Watford",
+        "date": "2019-02-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 309,
+        "home_team": "Crystal Palace",
+        "away_team": "Fulham",
+        "date": "2019-02-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 307,
+        "home_team": "Cardiff",
+        "away_team": "Bournemouth",
+        "date": "2019-02-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 311,
+        "home_team": "Leicester",
+        "away_team": "Manchester United",
+        "date": "2019-02-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 312,
+        "home_team": "Manchester City",
+        "away_team": "Arsenal",
+        "date": "2019-02-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 314,
+        "home_team": "West Ham",
+        "away_team": "Liverpool",
+        "date": "2019-02-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 330,
+        "home_team": "Everton",
+        "away_team": "Manchester City",
+        "date": "2019-02-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 317,
+        "home_team": "Fulham",
+        "away_team": "Manchester United",
+        "date": "2019-02-09",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 318,
+        "home_team": "Huddersfield",
+        "away_team": "Arsenal",
+        "date": "2019-02-09",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 323,
+        "home_team": "Watford",
+        "away_team": "Everton",
+        "date": "2019-02-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 319,
+        "home_team": "Liverpool",
+        "away_team": "Bournemouth",
+        "date": "2019-02-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 321,
+        "home_team": "Southampton",
+        "away_team": "Cardiff",
+        "date": "2019-02-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 316,
+        "home_team": "Crystal Palace",
+        "away_team": "West Ham",
+        "date": "2019-02-09",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 315,
+        "home_team": "Brighton",
+        "away_team": "Burnley",
+        "date": "2019-02-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 322,
+        "home_team": "Tottenham",
+        "away_team": "Leicester",
+        "date": "2019-02-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 320,
+        "home_team": "Manchester City",
+        "away_team": "Chelsea",
+        "date": "2019-02-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 324,
+        "home_team": "Wolves",
+        "away_team": "Newcastle",
+        "date": "2019-02-11",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 328,
+        "home_team": "Cardiff",
+        "away_team": "Watford",
+        "date": "2019-02-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 334,
+        "home_team": "West Ham",
+        "away_team": "Fulham",
+        "date": "2019-02-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 327,
+        "home_team": "Burnley",
+        "away_team": "Tottenham",
+        "date": "2019-02-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 333,
+        "home_team": "Newcastle",
+        "away_team": "Huddersfield",
+        "date": "2019-02-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 326,
+        "home_team": "Bournemouth",
+        "away_team": "Wolves",
+        "date": "2019-02-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 331,
+        "home_team": "Leicester",
+        "away_team": "Crystal Palace",
+        "date": "2019-02-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 332,
+        "home_team": "Manchester United",
+        "away_team": "Liverpool",
+        "date": "2019-02-24",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 325,
+        "home_team": "Arsenal",
+        "away_team": "Southampton",
+        "date": "2019-02-24",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 337,
+        "home_team": "Huddersfield",
+        "away_team": "Wolves",
+        "date": "2019-02-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 336,
+        "home_team": "Cardiff",
+        "away_team": "Everton",
+        "date": "2019-02-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 338,
+        "home_team": "Leicester",
+        "away_team": "Brighton",
+        "date": "2019-02-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 341,
+        "home_team": "Newcastle",
+        "away_team": "Burnley",
+        "date": "2019-02-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 342,
+        "home_team": "Southampton",
+        "away_team": "Fulham",
+        "date": "2019-02-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 335,
+        "home_team": "Arsenal",
+        "away_team": "Bournemouth",
+        "date": "2019-02-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 343,
+        "home_team": "Liverpool",
+        "away_team": "Watford",
+        "date": "2019-02-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 340,
+        "home_team": "Chelsea",
+        "away_team": "Tottenham",
+        "date": "2019-02-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 344,
+        "home_team": "Manchester City",
+        "away_team": "West Ham",
+        "date": "2019-02-27",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 339,
+        "home_team": "Crystal Palace",
+        "away_team": "Manchester United",
+        "date": "2019-02-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 351,
+        "home_team": "Tottenham",
+        "away_team": "Arsenal",
+        "date": "2019-03-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 350,
+        "home_team": "Manchester United",
+        "away_team": "Southampton",
+        "date": "2019-03-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 345,
+        "home_team": "Bournemouth",
+        "away_team": "Manchester City",
+        "date": "2019-03-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 354,
+        "home_team": "Wolves",
+        "away_team": "Cardiff",
+        "date": "2019-03-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 347,
+        "home_team": "Burnley",
+        "away_team": "Crystal Palace",
+        "date": "2019-03-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 346,
+        "home_team": "Brighton",
+        "away_team": "Huddersfield",
+        "date": "2019-03-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 353,
+        "home_team": "West Ham",
+        "away_team": "Newcastle",
+        "date": "2019-03-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 352,
+        "home_team": "Watford",
+        "away_team": "Leicester",
+        "date": "2019-03-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 349,
+        "home_team": "Fulham",
+        "away_team": "Chelsea",
+        "date": "2019-03-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 348,
+        "home_team": "Everton",
+        "away_team": "Liverpool",
+        "date": "2019-03-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 358,
+        "home_team": "Crystal Palace",
+        "away_team": "Brighton",
+        "date": "2019-03-09",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 363,
+        "home_team": "Newcastle",
+        "away_team": "Everton",
+        "date": "2019-03-09",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 359,
+        "home_team": "Huddersfield",
+        "away_team": "Bournemouth",
+        "date": "2019-03-09",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 364,
+        "home_team": "Southampton",
+        "away_team": "Tottenham",
+        "date": "2019-03-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 356,
+        "home_team": "Cardiff",
+        "away_team": "West Ham",
+        "date": "2019-03-09",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 360,
+        "home_team": "Leicester",
+        "away_team": "Fulham",
+        "date": "2019-03-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 362,
+        "home_team": "Manchester City",
+        "away_team": "Watford",
+        "date": "2019-03-09",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 361,
+        "home_team": "Liverpool",
+        "away_team": "Burnley",
+        "date": "2019-03-10",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 357,
+        "home_team": "Chelsea",
+        "away_team": "Wolves",
+        "date": "2019-03-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 355,
+        "home_team": "Arsenal",
+        "away_team": "Manchester United",
+        "date": "2019-03-10",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 365,
+        "home_team": "Bournemouth",
+        "away_team": "Newcastle",
+        "date": "2019-03-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 367,
+        "home_team": "Burnley",
+        "away_team": "Leicester",
+        "date": "2019-03-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 373,
+        "home_team": "West Ham",
+        "away_team": "Huddersfield",
+        "date": "2019-03-16",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 369,
+        "home_team": "Fulham",
+        "away_team": "Liverpool",
+        "date": "2019-03-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 368,
+        "home_team": "Everton",
+        "away_team": "Chelsea",
+        "date": "2019-03-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 380,
+        "home_team": "Fulham",
+        "away_team": "Manchester City",
+        "date": "2019-03-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 383,
+        "home_team": "Manchester United",
+        "away_team": "Watford",
+        "date": "2019-03-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 377,
+        "home_team": "Burnley",
+        "away_team": "Wolves",
+        "date": "2019-03-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 381,
+        "home_team": "Leicester",
+        "away_team": "Bournemouth",
+        "date": "2019-03-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 376,
+        "home_team": "Brighton",
+        "away_team": "Southampton",
+        "date": "2019-03-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 379,
+        "home_team": "Crystal Palace",
+        "away_team": "Huddersfield",
+        "date": "2019-03-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 384,
+        "home_team": "West Ham",
+        "away_team": "Everton",
+        "date": "2019-03-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 378,
+        "home_team": "Cardiff",
+        "away_team": "Chelsea",
+        "date": "2019-03-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 382,
+        "home_team": "Liverpool",
+        "away_team": "Tottenham",
+        "date": "2019-03-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 375,
+        "home_team": "Arsenal",
+        "away_team": "Newcastle",
+        "date": "2019-04-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 393,
+        "home_team": "Watford",
+        "away_team": "Fulham",
+        "date": "2019-04-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 394,
+        "home_team": "Wolves",
+        "away_team": "Manchester United",
+        "date": "2019-04-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 371,
+        "home_team": "Tottenham",
+        "away_team": "Crystal Palace",
+        "date": "2019-04-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 329,
+        "home_team": "Chelsea",
+        "away_team": "Brighton",
+        "date": "2019-04-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 389,
+        "home_team": "Manchester City",
+        "away_team": "Cardiff",
+        "date": "2019-04-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 391,
+        "home_team": "Southampton",
+        "away_team": "Liverpool",
+        "date": "2019-04-05",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 390,
+        "home_team": "Newcastle",
+        "away_team": "Crystal Palace",
+        "date": "2019-04-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 385,
+        "home_team": "Bournemouth",
+        "away_team": "Burnley",
+        "date": "2019-04-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 388,
+        "home_team": "Huddersfield",
+        "away_team": "Leicester",
+        "date": "2019-04-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 387,
+        "home_team": "Everton",
+        "away_team": "Arsenal",
+        "date": "2019-04-07",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 386,
+        "home_team": "Chelsea",
+        "away_team": "West Ham",
+        "date": "2019-04-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 399,
+        "home_team": "Leicester",
+        "away_team": "Newcastle",
+        "date": "2019-04-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 403,
+        "home_team": "Tottenham",
+        "away_team": "Huddersfield",
+        "date": "2019-04-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 398,
+        "home_team": "Fulham",
+        "away_team": "Everton",
+        "date": "2019-04-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 402,
+        "home_team": "Southampton",
+        "away_team": "Wolves",
+        "date": "2019-04-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 396,
+        "home_team": "Burnley",
+        "away_team": "Cardiff",
+        "date": "2019-04-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 395,
+        "home_team": "Brighton",
+        "away_team": "Bournemouth",
+        "date": "2019-04-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 401,
+        "home_team": "Manchester United",
+        "away_team": "West Ham",
+        "date": "2019-04-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 397,
+        "home_team": "Crystal Palace",
+        "away_team": "Manchester City",
+        "date": "2019-04-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 400,
+        "home_team": "Liverpool",
+        "away_team": "Chelsea",
+        "date": "2019-04-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 404,
+        "home_team": "Watford",
+        "away_team": "Arsenal",
+        "date": "2019-04-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 366,
+        "home_team": "Brighton",
+        "away_team": "Cardiff",
+        "date": "2019-04-16",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 411,
+        "home_team": "Manchester City",
+        "away_team": "Tottenham",
+        "date": "2019-04-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 406,
+        "home_team": "Bournemouth",
+        "away_team": "Fulham",
+        "date": "2019-04-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 410,
+        "home_team": "Huddersfield",
+        "away_team": "Watford",
+        "date": "2019-04-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 414,
+        "home_team": "Wolves",
+        "away_team": "Brighton",
+        "date": "2019-04-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 413,
+        "home_team": "West Ham",
+        "away_team": "Leicester",
+        "date": "2019-04-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 412,
+        "home_team": "Newcastle",
+        "away_team": "Southampton",
+        "date": "2019-04-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 409,
+        "home_team": "Everton",
+        "away_team": "Manchester United",
+        "date": "2019-04-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 405,
+        "home_team": "Arsenal",
+        "away_team": "Crystal Palace",
+        "date": "2019-04-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 407,
+        "home_team": "Cardiff",
+        "away_team": "Liverpool",
+        "date": "2019-04-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 408,
+        "home_team": "Chelsea",
+        "away_team": "Burnley",
+        "date": "2019-04-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 372,
+        "home_team": "Watford",
+        "away_team": "Southampton",
+        "date": "2019-04-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 392,
+        "home_team": "Tottenham",
+        "away_team": "Brighton",
+        "date": "2019-04-23",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 374,
+        "home_team": "Wolves",
+        "away_team": "Arsenal",
+        "date": "2019-04-24",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 370,
+        "home_team": "Manchester United",
+        "away_team": "Manchester City",
+        "date": "2019-04-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 420,
+        "home_team": "Liverpool",
+        "away_team": "Huddersfield",
+        "date": "2019-04-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 423,
+        "home_team": "Tottenham",
+        "away_team": "West Ham",
+        "date": "2019-04-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 418,
+        "home_team": "Fulham",
+        "away_team": "Cardiff",
+        "date": "2019-04-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 424,
+        "home_team": "Watford",
+        "away_team": "Wolves",
+        "date": "2019-04-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 422,
+        "home_team": "Southampton",
+        "away_team": "Bournemouth",
+        "date": "2019-04-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 417,
+        "home_team": "Crystal Palace",
+        "away_team": "Everton",
+        "date": "2019-04-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 415,
+        "home_team": "Brighton",
+        "away_team": "Newcastle",
+        "date": "2019-04-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 419,
+        "home_team": "Leicester",
+        "away_team": "Arsenal",
+        "date": "2019-04-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 416,
+        "home_team": "Burnley",
+        "away_team": "Manchester City",
+        "date": "2019-04-28",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 421,
+        "home_team": "Manchester United",
+        "away_team": "Chelsea",
+        "date": "2019-04-28",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 429,
+        "home_team": "Everton",
+        "away_team": "Burnley",
+        "date": "2019-05-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 426,
+        "home_team": "Bournemouth",
+        "away_team": "Tottenham",
+        "date": "2019-05-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 434,
+        "home_team": "Wolves",
+        "away_team": "Fulham",
+        "date": "2019-05-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 433,
+        "home_team": "West Ham",
+        "away_team": "Southampton",
+        "date": "2019-05-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 427,
+        "home_team": "Cardiff",
+        "away_team": "Crystal Palace",
+        "date": "2019-05-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 432,
+        "home_team": "Newcastle",
+        "away_team": "Liverpool",
+        "date": "2019-05-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 430,
+        "home_team": "Huddersfield",
+        "away_team": "Manchester United",
+        "date": "2019-05-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 428,
+        "home_team": "Chelsea",
+        "away_team": "Watford",
+        "date": "2019-05-05",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 425,
+        "home_team": "Arsenal",
+        "away_team": "Brighton",
+        "date": "2019-05-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 431,
+        "home_team": "Manchester City",
+        "away_team": "Leicester",
+        "date": "2019-05-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 441,
+        "home_team": "Manchester United",
+        "away_team": "Cardiff",
+        "date": "2019-05-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 438,
+        "home_team": "Fulham",
+        "away_team": "Newcastle",
+        "date": "2019-05-12",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 444,
+        "home_team": "Watford",
+        "away_team": "West Ham",
+        "date": "2019-05-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 440,
+        "home_team": "Liverpool",
+        "away_team": "Wolves",
+        "date": "2019-05-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 442,
+        "home_team": "Southampton",
+        "away_team": "Huddersfield",
+        "date": "2019-05-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 436,
+        "home_team": "Burnley",
+        "away_team": "Arsenal",
+        "date": "2019-05-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 439,
+        "home_team": "Leicester",
+        "away_team": "Chelsea",
+        "date": "2019-05-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 443,
+        "home_team": "Tottenham",
+        "away_team": "Everton",
+        "date": "2019-05-12",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 435,
+        "home_team": "Brighton",
+        "away_team": "Manchester City",
+        "date": "2019-05-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 437,
+        "home_team": "Crystal Palace",
+        "away_team": "Bournemouth",
+        "date": "2019-05-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    }
+]

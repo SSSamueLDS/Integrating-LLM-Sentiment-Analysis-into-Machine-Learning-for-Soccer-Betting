@@ -1,0 +1,2962 @@
+[
+    {
+        "id": 17686,
+        "home_team": "Manchester United",
+        "away_team": "Southampton",
+        "date": "2016-08-19",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17685,
+        "home_team": "Stoke City",
+        "away_team": "Manchester City",
+        "date": "2016-08-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17683,
+        "home_team": "Watford",
+        "away_team": "Chelsea",
+        "date": "2016-08-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17680,
+        "home_team": "Burnley",
+        "away_team": "Liverpool",
+        "date": "2016-08-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17682,
+        "home_team": "Tottenham",
+        "away_team": "Crystal Palace",
+        "date": "2016-08-20",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17684,
+        "home_team": "West Brom",
+        "away_team": "Everton",
+        "date": "2016-08-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17681,
+        "home_team": "Swansea",
+        "away_team": "Hull City",
+        "date": "2016-08-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17679,
+        "home_team": "Leicester",
+        "away_team": "Arsenal",
+        "date": "2016-08-20",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17678,
+        "home_team": "Sunderland",
+        "away_team": "Middlesbrough",
+        "date": "2016-08-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17677,
+        "home_team": "West Ham",
+        "away_team": "Bournemouth",
+        "date": "2016-08-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17676,
+        "home_team": "Tottenham",
+        "away_team": "Liverpool",
+        "date": "2016-08-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17675,
+        "home_team": "Watford",
+        "away_team": "Arsenal",
+        "date": "2016-08-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17674,
+        "home_team": "Southampton",
+        "away_team": "Sunderland",
+        "date": "2016-08-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17672,
+        "home_team": "Everton",
+        "away_team": "Stoke City",
+        "date": "2016-08-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17673,
+        "home_team": "Leicester",
+        "away_team": "Swansea",
+        "date": "2016-08-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17670,
+        "home_team": "Chelsea",
+        "away_team": "Burnley",
+        "date": "2016-08-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17671,
+        "home_team": "Crystal Palace",
+        "away_team": "Bournemouth",
+        "date": "2016-08-27",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17669,
+        "home_team": "Hull City",
+        "away_team": "Manchester United",
+        "date": "2016-08-27",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17668,
+        "home_team": "West Brom",
+        "away_team": "Middlesbrough",
+        "date": "2016-08-28",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17667,
+        "home_team": "Manchester City",
+        "away_team": "West Ham",
+        "date": "2016-08-28",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17666,
+        "home_team": "Manchester United",
+        "away_team": "Manchester City",
+        "date": "2016-09-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17661,
+        "home_team": "Bournemouth",
+        "away_team": "West Brom",
+        "date": "2016-09-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17660,
+        "home_team": "Arsenal",
+        "away_team": "Southampton",
+        "date": "2016-09-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17662,
+        "home_team": "Burnley",
+        "away_team": "Hull City",
+        "date": "2016-09-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17665,
+        "home_team": "West Ham",
+        "away_team": "Watford",
+        "date": "2016-09-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17663,
+        "home_team": "Middlesbrough",
+        "away_team": "Crystal Palace",
+        "date": "2016-09-10",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17664,
+        "home_team": "Stoke City",
+        "away_team": "Tottenham",
+        "date": "2016-09-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17659,
+        "home_team": "Liverpool",
+        "away_team": "Leicester",
+        "date": "2016-09-10",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17658,
+        "home_team": "Swansea",
+        "away_team": "Chelsea",
+        "date": "2016-09-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17657,
+        "home_team": "Sunderland",
+        "away_team": "Everton",
+        "date": "2016-09-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17656,
+        "home_team": "Chelsea",
+        "away_team": "Liverpool",
+        "date": "2016-09-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17653,
+        "home_team": "Leicester",
+        "away_team": "Burnley",
+        "date": "2016-09-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17654,
+        "home_team": "Manchester City",
+        "away_team": "Bournemouth",
+        "date": "2016-09-17",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17655,
+        "home_team": "West Brom",
+        "away_team": "West Ham",
+        "date": "2016-09-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17652,
+        "home_team": "Hull City",
+        "away_team": "Arsenal",
+        "date": "2016-09-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17651,
+        "home_team": "Everton",
+        "away_team": "Middlesbrough",
+        "date": "2016-09-17",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17650,
+        "home_team": "Watford",
+        "away_team": "Manchester United",
+        "date": "2016-09-18",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17649,
+        "home_team": "Southampton",
+        "away_team": "Swansea",
+        "date": "2016-09-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17648,
+        "home_team": "Crystal Palace",
+        "away_team": "Stoke City",
+        "date": "2016-09-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17647,
+        "home_team": "Tottenham",
+        "away_team": "Sunderland",
+        "date": "2016-09-18",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17646,
+        "home_team": "Manchester United",
+        "away_team": "Leicester",
+        "date": "2016-09-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17640,
+        "home_team": "Bournemouth",
+        "away_team": "Everton",
+        "date": "2016-09-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17641,
+        "home_team": "Liverpool",
+        "away_team": "Hull City",
+        "date": "2016-09-24",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17642,
+        "home_team": "Middlesbrough",
+        "away_team": "Tottenham",
+        "date": "2016-09-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17643,
+        "home_team": "Stoke City",
+        "away_team": "West Brom",
+        "date": "2016-09-24",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17645,
+        "home_team": "Swansea",
+        "away_team": "Manchester City",
+        "date": "2016-09-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17644,
+        "home_team": "Sunderland",
+        "away_team": "Crystal Palace",
+        "date": "2016-09-24",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17639,
+        "home_team": "Arsenal",
+        "away_team": "Chelsea",
+        "date": "2016-09-24",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17638,
+        "home_team": "West Ham",
+        "away_team": "Southampton",
+        "date": "2016-09-25",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17637,
+        "home_team": "Burnley",
+        "away_team": "Watford",
+        "date": "2016-09-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17636,
+        "home_team": "Everton",
+        "away_team": "Crystal Palace",
+        "date": "2016-09-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17635,
+        "home_team": "Swansea",
+        "away_team": "Liverpool",
+        "date": "2016-10-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17633,
+        "home_team": "Watford",
+        "away_team": "Bournemouth",
+        "date": "2016-10-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17634,
+        "home_team": "West Ham",
+        "away_team": "Middlesbrough",
+        "date": "2016-10-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17631,
+        "home_team": "Hull City",
+        "away_team": "Chelsea",
+        "date": "2016-10-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17632,
+        "home_team": "Sunderland",
+        "away_team": "West Brom",
+        "date": "2016-10-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17630,
+        "home_team": "Manchester United",
+        "away_team": "Stoke City",
+        "date": "2016-10-02",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17628,
+        "home_team": "Leicester",
+        "away_team": "Southampton",
+        "date": "2016-10-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17629,
+        "home_team": "Tottenham",
+        "away_team": "Manchester City",
+        "date": "2016-10-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17627,
+        "home_team": "Burnley",
+        "away_team": "Arsenal",
+        "date": "2016-10-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17626,
+        "home_team": "Chelsea",
+        "away_team": "Leicester",
+        "date": "2016-10-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17622,
+        "home_team": "Bournemouth",
+        "away_team": "Hull City",
+        "date": "2016-10-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17621,
+        "home_team": "Arsenal",
+        "away_team": "Swansea",
+        "date": "2016-10-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17623,
+        "home_team": "Manchester City",
+        "away_team": "Everton",
+        "date": "2016-10-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17625,
+        "home_team": "West Brom",
+        "away_team": "Tottenham",
+        "date": "2016-10-15",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17624,
+        "home_team": "Stoke City",
+        "away_team": "Sunderland",
+        "date": "2016-10-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17620,
+        "home_team": "Crystal Palace",
+        "away_team": "West Ham",
+        "date": "2016-10-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17619,
+        "home_team": "Middlesbrough",
+        "away_team": "Watford",
+        "date": "2016-10-16",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17618,
+        "home_team": "Southampton",
+        "away_team": "Burnley",
+        "date": "2016-10-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17617,
+        "home_team": "Liverpool",
+        "away_team": "Manchester United",
+        "date": "2016-10-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17616,
+        "home_team": "Bournemouth",
+        "away_team": "Tottenham",
+        "date": "2016-10-22",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17610,
+        "home_team": "Arsenal",
+        "away_team": "Middlesbrough",
+        "date": "2016-10-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17611,
+        "home_team": "Burnley",
+        "away_team": "Everton",
+        "date": "2016-10-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17613,
+        "home_team": "Leicester",
+        "away_team": "Crystal Palace",
+        "date": "2016-10-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17615,
+        "home_team": "West Ham",
+        "away_team": "Sunderland",
+        "date": "2016-10-22",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17612,
+        "home_team": "Hull City",
+        "away_team": "Stoke City",
+        "date": "2016-10-22",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17614,
+        "home_team": "Swansea",
+        "away_team": "Watford",
+        "date": "2016-10-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17609,
+        "home_team": "Liverpool",
+        "away_team": "West Brom",
+        "date": "2016-10-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17608,
+        "home_team": "Manchester City",
+        "away_team": "Southampton",
+        "date": "2016-10-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17607,
+        "home_team": "Chelsea",
+        "away_team": "Manchester United",
+        "date": "2016-10-23",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17606,
+        "home_team": "Sunderland",
+        "away_team": "Arsenal",
+        "date": "2016-10-29",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17601,
+        "home_team": "Manchester United",
+        "away_team": "Burnley",
+        "date": "2016-10-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17604,
+        "home_team": "Watford",
+        "away_team": "Hull City",
+        "date": "2016-10-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17603,
+        "home_team": "Tottenham",
+        "away_team": "Leicester",
+        "date": "2016-10-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17605,
+        "home_team": "West Brom",
+        "away_team": "Manchester City",
+        "date": "2016-10-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17602,
+        "home_team": "Middlesbrough",
+        "away_team": "Bournemouth",
+        "date": "2016-10-29",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17600,
+        "home_team": "Crystal Palace",
+        "away_team": "Liverpool",
+        "date": "2016-10-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17599,
+        "home_team": "Everton",
+        "away_team": "West Ham",
+        "date": "2016-10-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17598,
+        "home_team": "Southampton",
+        "away_team": "Chelsea",
+        "date": "2016-10-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17597,
+        "home_team": "Stoke City",
+        "away_team": "Swansea",
+        "date": "2016-10-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17593,
+        "home_team": "Bournemouth",
+        "away_team": "Sunderland",
+        "date": "2016-11-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17594,
+        "home_team": "Burnley",
+        "away_team": "Crystal Palace",
+        "date": "2016-11-05",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17596,
+        "home_team": "West Ham",
+        "away_team": "Stoke City",
+        "date": "2016-11-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17595,
+        "home_team": "Manchester City",
+        "away_team": "Middlesbrough",
+        "date": "2016-11-05",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17592,
+        "home_team": "Chelsea",
+        "away_team": "Everton",
+        "date": "2016-11-05",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17591,
+        "home_team": "Arsenal",
+        "away_team": "Tottenham",
+        "date": "2016-11-06",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17590,
+        "home_team": "Liverpool",
+        "away_team": "Watford",
+        "date": "2016-11-06",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17589,
+        "home_team": "Hull City",
+        "away_team": "Southampton",
+        "date": "2016-11-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17588,
+        "home_team": "Swansea",
+        "away_team": "Manchester United",
+        "date": "2016-11-06",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17587,
+        "home_team": "Leicester",
+        "away_team": "West Brom",
+        "date": "2016-11-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17586,
+        "home_team": "Manchester United",
+        "away_team": "Arsenal",
+        "date": "2016-11-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17585,
+        "home_team": "Watford",
+        "away_team": "Leicester",
+        "date": "2016-11-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17582,
+        "home_team": "Southampton",
+        "away_team": "Liverpool",
+        "date": "2016-11-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17581,
+        "home_team": "Everton",
+        "away_team": "Swansea",
+        "date": "2016-11-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17580,
+        "home_team": "Crystal Palace",
+        "away_team": "Manchester City",
+        "date": "2016-11-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17583,
+        "home_team": "Stoke City",
+        "away_team": "Bournemouth",
+        "date": "2016-11-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17584,
+        "home_team": "Sunderland",
+        "away_team": "Hull City",
+        "date": "2016-11-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17579,
+        "home_team": "Tottenham",
+        "away_team": "West Ham",
+        "date": "2016-11-19",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17578,
+        "home_team": "Middlesbrough",
+        "away_team": "Chelsea",
+        "date": "2016-11-20",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17577,
+        "home_team": "West Brom",
+        "away_team": "Burnley",
+        "date": "2016-11-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17576,
+        "home_team": "Burnley",
+        "away_team": "Manchester City",
+        "date": "2016-11-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17574,
+        "home_team": "Liverpool",
+        "away_team": "Sunderland",
+        "date": "2016-11-26",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17573,
+        "home_team": "Leicester",
+        "away_team": "Middlesbrough",
+        "date": "2016-11-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17572,
+        "home_team": "Hull City",
+        "away_team": "West Brom",
+        "date": "2016-11-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17575,
+        "home_team": "Swansea",
+        "away_team": "Crystal Palace",
+        "date": "2016-11-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17571,
+        "home_team": "Chelsea",
+        "away_team": "Tottenham",
+        "date": "2016-11-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17570,
+        "home_team": "Watford",
+        "away_team": "Stoke City",
+        "date": "2016-11-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17569,
+        "home_team": "Arsenal",
+        "away_team": "Bournemouth",
+        "date": "2016-11-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17567,
+        "home_team": "Manchester United",
+        "away_team": "West Ham",
+        "date": "2016-11-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17568,
+        "home_team": "Southampton",
+        "away_team": "Everton",
+        "date": "2016-11-27",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17566,
+        "home_team": "Manchester City",
+        "away_team": "Chelsea",
+        "date": "2016-12-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17564,
+        "home_team": "Tottenham",
+        "away_team": "Swansea",
+        "date": "2016-12-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17561,
+        "home_team": "Crystal Palace",
+        "away_team": "Southampton",
+        "date": "2016-12-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17565,
+        "home_team": "West Brom",
+        "away_team": "Watford",
+        "date": "2016-12-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17562,
+        "home_team": "Stoke City",
+        "away_team": "Burnley",
+        "date": "2016-12-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17563,
+        "home_team": "Sunderland",
+        "away_team": "Leicester",
+        "date": "2016-12-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17560,
+        "home_team": "West Ham",
+        "away_team": "Arsenal",
+        "date": "2016-12-03",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17559,
+        "home_team": "Bournemouth",
+        "away_team": "Liverpool",
+        "date": "2016-12-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17558,
+        "home_team": "Everton",
+        "away_team": "Manchester United",
+        "date": "2016-12-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17557,
+        "home_team": "Middlesbrough",
+        "away_team": "Hull City",
+        "date": "2016-12-05",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17556,
+        "home_team": "Watford",
+        "away_team": "Everton",
+        "date": "2016-12-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17552,
+        "home_team": "Arsenal",
+        "away_team": "Stoke City",
+        "date": "2016-12-10",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17553,
+        "home_team": "Burnley",
+        "away_team": "Bournemouth",
+        "date": "2016-12-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17554,
+        "home_team": "Hull City",
+        "away_team": "Crystal Palace",
+        "date": "2016-12-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17555,
+        "home_team": "Swansea",
+        "away_team": "Sunderland",
+        "date": "2016-12-10",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17551,
+        "home_team": "Leicester",
+        "away_team": "Manchester City",
+        "date": "2016-12-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17550,
+        "home_team": "Chelsea",
+        "away_team": "West Brom",
+        "date": "2016-12-11",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17548,
+        "home_team": "Manchester United",
+        "away_team": "Tottenham",
+        "date": "2016-12-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17549,
+        "home_team": "Southampton",
+        "away_team": "Middlesbrough",
+        "date": "2016-12-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17547,
+        "home_team": "Liverpool",
+        "away_team": "West Ham",
+        "date": "2016-12-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17545,
+        "home_team": "Bournemouth",
+        "away_team": "Leicester",
+        "date": "2016-12-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17546,
+        "home_team": "Everton",
+        "away_team": "Arsenal",
+        "date": "2016-12-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17544,
+        "home_team": "West Ham",
+        "away_team": "Burnley",
+        "date": "2016-12-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17542,
+        "home_team": "Middlesbrough",
+        "away_team": "Liverpool",
+        "date": "2016-12-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17543,
+        "home_team": "Sunderland",
+        "away_team": "Chelsea",
+        "date": "2016-12-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17540,
+        "home_team": "Tottenham",
+        "away_team": "Hull City",
+        "date": "2016-12-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17538,
+        "home_team": "Manchester City",
+        "away_team": "Watford",
+        "date": "2016-12-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17537,
+        "home_team": "Crystal Palace",
+        "away_team": "Manchester United",
+        "date": "2016-12-14",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17541,
+        "home_team": "West Brom",
+        "away_team": "Swansea",
+        "date": "2016-12-14",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17539,
+        "home_team": "Stoke City",
+        "away_team": "Southampton",
+        "date": "2016-12-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17536,
+        "home_team": "Crystal Palace",
+        "away_team": "Chelsea",
+        "date": "2016-12-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17535,
+        "home_team": "West Ham",
+        "away_team": "Hull City",
+        "date": "2016-12-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17532,
+        "home_team": "Middlesbrough",
+        "away_team": "Swansea",
+        "date": "2016-12-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17533,
+        "home_team": "Stoke City",
+        "away_team": "Leicester",
+        "date": "2016-12-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17534,
+        "home_team": "Sunderland",
+        "away_team": "Watford",
+        "date": "2016-12-17",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17531,
+        "home_team": "West Brom",
+        "away_team": "Manchester United",
+        "date": "2016-12-17",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17530,
+        "home_team": "Bournemouth",
+        "away_team": "Southampton",
+        "date": "2016-12-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17529,
+        "home_team": "Tottenham",
+        "away_team": "Burnley",
+        "date": "2016-12-18",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17528,
+        "home_team": "Manchester City",
+        "away_team": "Arsenal",
+        "date": "2016-12-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17527,
+        "home_team": "Everton",
+        "away_team": "Liverpool",
+        "date": "2016-12-19",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17526,
+        "home_team": "Watford",
+        "away_team": "Crystal Palace",
+        "date": "2016-12-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17524,
+        "home_team": "Manchester United",
+        "away_team": "Sunderland",
+        "date": "2016-12-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17520,
+        "home_team": "Arsenal",
+        "away_team": "West Brom",
+        "date": "2016-12-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17521,
+        "home_team": "Burnley",
+        "away_team": "Middlesbrough",
+        "date": "2016-12-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17523,
+        "home_team": "Leicester",
+        "away_team": "Everton",
+        "date": "2016-12-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17522,
+        "home_team": "Chelsea",
+        "away_team": "Bournemouth",
+        "date": "2016-12-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17525,
+        "home_team": "Swansea",
+        "away_team": "West Ham",
+        "date": "2016-12-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17519,
+        "home_team": "Hull City",
+        "away_team": "Manchester City",
+        "date": "2016-12-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17518,
+        "home_team": "Liverpool",
+        "away_team": "Stoke City",
+        "date": "2016-12-27",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17517,
+        "home_team": "Southampton",
+        "away_team": "Tottenham",
+        "date": "2016-12-28",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17516,
+        "home_team": "Hull City",
+        "away_team": "Everton",
+        "date": "2016-12-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17513,
+        "home_team": "Manchester United",
+        "away_team": "Middlesbrough",
+        "date": "2016-12-31",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17514,
+        "home_team": "Southampton",
+        "away_team": "West Brom",
+        "date": "2016-12-31",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17510,
+        "home_team": "Burnley",
+        "away_team": "Sunderland",
+        "date": "2016-12-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17512,
+        "home_team": "Leicester",
+        "away_team": "West Ham",
+        "date": "2016-12-31",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17511,
+        "home_team": "Chelsea",
+        "away_team": "Stoke City",
+        "date": "2016-12-31",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17515,
+        "home_team": "Swansea",
+        "away_team": "Bournemouth",
+        "date": "2016-12-31",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17509,
+        "home_team": "Liverpool",
+        "away_team": "Manchester City",
+        "date": "2016-12-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17508,
+        "home_team": "Watford",
+        "away_team": "Tottenham",
+        "date": "2017-01-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17507,
+        "home_team": "Arsenal",
+        "away_team": "Crystal Palace",
+        "date": "2017-01-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17506,
+        "home_team": "Middlesbrough",
+        "away_team": "Leicester",
+        "date": "2017-01-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17502,
+        "home_team": "Everton",
+        "away_team": "Southampton",
+        "date": "2017-01-02",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17503,
+        "home_team": "Manchester City",
+        "away_team": "Burnley",
+        "date": "2017-01-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17505,
+        "home_team": "West Brom",
+        "away_team": "Hull City",
+        "date": "2017-01-02",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17504,
+        "home_team": "Sunderland",
+        "away_team": "Liverpool",
+        "date": "2017-01-02",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17501,
+        "home_team": "West Ham",
+        "away_team": "Manchester United",
+        "date": "2017-01-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17500,
+        "home_team": "Bournemouth",
+        "away_team": "Arsenal",
+        "date": "2017-01-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17498,
+        "home_team": "Crystal Palace",
+        "away_team": "Swansea",
+        "date": "2017-01-03",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17499,
+        "home_team": "Stoke City",
+        "away_team": "Watford",
+        "date": "2017-01-03",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17497,
+        "home_team": "Tottenham",
+        "away_team": "Chelsea",
+        "date": "2017-01-04",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17496,
+        "home_team": "Tottenham",
+        "away_team": "West Brom",
+        "date": "2017-01-14",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17494,
+        "home_team": "Watford",
+        "away_team": "Middlesbrough",
+        "date": "2017-01-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17490,
+        "home_team": "Burnley",
+        "away_team": "Southampton",
+        "date": "2017-01-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17495,
+        "home_team": "West Ham",
+        "away_team": "Crystal Palace",
+        "date": "2017-01-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17491,
+        "home_team": "Hull City",
+        "away_team": "Bournemouth",
+        "date": "2017-01-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17493,
+        "home_team": "Swansea",
+        "away_team": "Arsenal",
+        "date": "2017-01-14",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17492,
+        "home_team": "Sunderland",
+        "away_team": "Stoke City",
+        "date": "2017-01-14",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17489,
+        "home_team": "Leicester",
+        "away_team": "Chelsea",
+        "date": "2017-01-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17488,
+        "home_team": "Everton",
+        "away_team": "Manchester City",
+        "date": "2017-01-15",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17487,
+        "home_team": "Manchester United",
+        "away_team": "Liverpool",
+        "date": "2017-01-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17486,
+        "home_team": "Liverpool",
+        "away_team": "Swansea",
+        "date": "2017-01-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17481,
+        "home_team": "Bournemouth",
+        "away_team": "Watford",
+        "date": "2017-01-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17482,
+        "home_team": "Crystal Palace",
+        "away_team": "Everton",
+        "date": "2017-01-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17485,
+        "home_team": "West Brom",
+        "away_team": "Sunderland",
+        "date": "2017-01-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17483,
+        "home_team": "Middlesbrough",
+        "away_team": "West Ham",
+        "date": "2017-01-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17484,
+        "home_team": "Stoke City",
+        "away_team": "Manchester United",
+        "date": "2017-01-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17480,
+        "home_team": "Manchester City",
+        "away_team": "Tottenham",
+        "date": "2017-01-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17479,
+        "home_team": "Southampton",
+        "away_team": "Leicester",
+        "date": "2017-01-22",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17478,
+        "home_team": "Arsenal",
+        "away_team": "Burnley",
+        "date": "2017-01-22",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17477,
+        "home_team": "Chelsea",
+        "away_team": "Hull City",
+        "date": "2017-01-22",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17472,
+        "home_team": "Bournemouth",
+        "away_team": "Crystal Palace",
+        "date": "2017-01-31",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17471,
+        "home_team": "Arsenal",
+        "away_team": "Watford",
+        "date": "2017-01-31",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17473,
+        "home_team": "Burnley",
+        "away_team": "Leicester",
+        "date": "2017-01-31",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17474,
+        "home_team": "Middlesbrough",
+        "away_team": "West Brom",
+        "date": "2017-01-31",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17476,
+        "home_team": "Swansea",
+        "away_team": "Southampton",
+        "date": "2017-01-31",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17475,
+        "home_team": "Sunderland",
+        "away_team": "Tottenham",
+        "date": "2017-01-31",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17470,
+        "home_team": "Liverpool",
+        "away_team": "Chelsea",
+        "date": "2017-01-31",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17469,
+        "home_team": "West Ham",
+        "away_team": "Manchester City",
+        "date": "2017-02-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17467,
+        "home_team": "Manchester United",
+        "away_team": "Hull City",
+        "date": "2017-02-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17468,
+        "home_team": "Stoke City",
+        "away_team": "Everton",
+        "date": "2017-02-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17466,
+        "home_team": "Chelsea",
+        "away_team": "Arsenal",
+        "date": "2017-02-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17464,
+        "home_team": "Watford",
+        "away_team": "Burnley",
+        "date": "2017-02-04",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17463,
+        "home_team": "Southampton",
+        "away_team": "West Ham",
+        "date": "2017-02-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17461,
+        "home_team": "Everton",
+        "away_team": "Bournemouth",
+        "date": "2017-02-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17460,
+        "home_team": "Crystal Palace",
+        "away_team": "Sunderland",
+        "date": "2017-02-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17465,
+        "home_team": "West Brom",
+        "away_team": "Stoke City",
+        "date": "2017-02-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17462,
+        "home_team": "Hull City",
+        "away_team": "Liverpool",
+        "date": "2017-02-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17459,
+        "home_team": "Tottenham",
+        "away_team": "Middlesbrough",
+        "date": "2017-02-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17458,
+        "home_team": "Manchester City",
+        "away_team": "Swansea",
+        "date": "2017-02-05",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17457,
+        "home_team": "Leicester",
+        "away_team": "Manchester United",
+        "date": "2017-02-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17456,
+        "home_team": "Arsenal",
+        "away_team": "Hull City",
+        "date": "2017-02-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17451,
+        "home_team": "Manchester United",
+        "away_team": "Watford",
+        "date": "2017-02-11",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17455,
+        "home_team": "West Ham",
+        "away_team": "West Brom",
+        "date": "2017-02-11",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17452,
+        "home_team": "Middlesbrough",
+        "away_team": "Everton",
+        "date": "2017-02-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17453,
+        "home_team": "Stoke City",
+        "away_team": "Crystal Palace",
+        "date": "2017-02-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17454,
+        "home_team": "Sunderland",
+        "away_team": "Southampton",
+        "date": "2017-02-11",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17450,
+        "home_team": "Liverpool",
+        "away_team": "Tottenham",
+        "date": "2017-02-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17449,
+        "home_team": "Burnley",
+        "away_team": "Chelsea",
+        "date": "2017-02-12",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17448,
+        "home_team": "Swansea",
+        "away_team": "Leicester",
+        "date": "2017-02-12",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17447,
+        "home_team": "Bournemouth",
+        "away_team": "Manchester City",
+        "date": "2017-02-13",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17444,
+        "home_team": "Everton",
+        "away_team": "Sunderland",
+        "date": "2017-02-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17442,
+        "home_team": "Chelsea",
+        "away_team": "Swansea",
+        "date": "2017-02-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17443,
+        "home_team": "Crystal Palace",
+        "away_team": "Middlesbrough",
+        "date": "2017-02-25",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17446,
+        "home_team": "West Brom",
+        "away_team": "Bournemouth",
+        "date": "2017-02-25",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17445,
+        "home_team": "Hull City",
+        "away_team": "Burnley",
+        "date": "2017-02-25",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17441,
+        "home_team": "Watford",
+        "away_team": "West Ham",
+        "date": "2017-02-25",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17440,
+        "home_team": "Tottenham",
+        "away_team": "Stoke City",
+        "date": "2017-02-26",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17439,
+        "home_team": "Leicester",
+        "away_team": "Liverpool",
+        "date": "2017-02-27",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17438,
+        "home_team": "Manchester United",
+        "away_team": "Bournemouth",
+        "date": "2017-03-04",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17436,
+        "home_team": "Watford",
+        "away_team": "Southampton",
+        "date": "2017-03-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17433,
+        "home_team": "Leicester",
+        "away_team": "Hull City",
+        "date": "2017-03-04",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17437,
+        "home_team": "West Brom",
+        "away_team": "Crystal Palace",
+        "date": "2017-03-04",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17434,
+        "home_team": "Stoke City",
+        "away_team": "Middlesbrough",
+        "date": "2017-03-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17435,
+        "home_team": "Swansea",
+        "away_team": "Burnley",
+        "date": "2017-03-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17432,
+        "home_team": "Liverpool",
+        "away_team": "Arsenal",
+        "date": "2017-03-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17431,
+        "home_team": "Tottenham",
+        "away_team": "Everton",
+        "date": "2017-03-05",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17430,
+        "home_team": "Sunderland",
+        "away_team": "Manchester City",
+        "date": "2017-03-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17429,
+        "home_team": "West Ham",
+        "away_team": "Chelsea",
+        "date": "2017-03-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17428,
+        "home_team": "Manchester City",
+        "away_team": "Stoke City",
+        "date": "2017-03-08",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17425,
+        "home_team": "Bournemouth",
+        "away_team": "West Ham",
+        "date": "2017-03-11",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17426,
+        "home_team": "Everton",
+        "away_team": "West Brom",
+        "date": "2017-03-11",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17427,
+        "home_team": "Hull City",
+        "away_team": "Swansea",
+        "date": "2017-03-11",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17424,
+        "home_team": "Liverpool",
+        "away_team": "Burnley",
+        "date": "2017-03-12",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17423,
+        "home_team": "West Brom",
+        "away_team": "Arsenal",
+        "date": "2017-03-18",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17419,
+        "home_team": "Everton",
+        "away_team": "Hull City",
+        "date": "2017-03-18",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17422,
+        "home_team": "West Ham",
+        "away_team": "Leicester",
+        "date": "2017-03-18",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17418,
+        "home_team": "Crystal Palace",
+        "away_team": "Watford",
+        "date": "2017-03-18",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17420,
+        "home_team": "Stoke City",
+        "away_team": "Chelsea",
+        "date": "2017-03-18",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17421,
+        "home_team": "Sunderland",
+        "away_team": "Burnley",
+        "date": "2017-03-18",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17417,
+        "home_team": "Bournemouth",
+        "away_team": "Swansea",
+        "date": "2017-03-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17416,
+        "home_team": "Middlesbrough",
+        "away_team": "Manchester United",
+        "date": "2017-03-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17415,
+        "home_team": "Tottenham",
+        "away_team": "Southampton",
+        "date": "2017-03-19",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17414,
+        "home_team": "Manchester City",
+        "away_team": "Liverpool",
+        "date": "2017-03-19",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17413,
+        "home_team": "Liverpool",
+        "away_team": "Everton",
+        "date": "2017-04-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17411,
+        "home_team": "Manchester United",
+        "away_team": "West Brom",
+        "date": "2017-04-01",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17412,
+        "home_team": "Watford",
+        "away_team": "Sunderland",
+        "date": "2017-04-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17407,
+        "home_team": "Burnley",
+        "away_team": "Tottenham",
+        "date": "2017-04-01",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17410,
+        "home_team": "Leicester",
+        "away_team": "Stoke City",
+        "date": "2017-04-01",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17408,
+        "home_team": "Chelsea",
+        "away_team": "Crystal Palace",
+        "date": "2017-04-01",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17409,
+        "home_team": "Hull City",
+        "away_team": "West Ham",
+        "date": "2017-04-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17406,
+        "home_team": "Southampton",
+        "away_team": "Bournemouth",
+        "date": "2017-04-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17405,
+        "home_team": "Swansea",
+        "away_team": "Middlesbrough",
+        "date": "2017-04-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17404,
+        "home_team": "Arsenal",
+        "away_team": "Manchester City",
+        "date": "2017-04-02",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17403,
+        "home_team": "Watford",
+        "away_team": "West Brom",
+        "date": "2017-04-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17401,
+        "home_team": "Burnley",
+        "away_team": "Stoke City",
+        "date": "2017-04-04",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17402,
+        "home_team": "Leicester",
+        "away_team": "Sunderland",
+        "date": "2017-04-04",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17400,
+        "home_team": "Manchester United",
+        "away_team": "Everton",
+        "date": "2017-04-04",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17398,
+        "home_team": "Southampton",
+        "away_team": "Crystal Palace",
+        "date": "2017-04-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17396,
+        "home_team": "Arsenal",
+        "away_team": "West Ham",
+        "date": "2017-04-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17397,
+        "home_team": "Hull City",
+        "away_team": "Middlesbrough",
+        "date": "2017-04-05",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17399,
+        "home_team": "Swansea",
+        "away_team": "Tottenham",
+        "date": "2017-04-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17395,
+        "home_team": "Liverpool",
+        "away_team": "Bournemouth",
+        "date": "2017-04-05",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17394,
+        "home_team": "Chelsea",
+        "away_team": "Manchester City",
+        "date": "2017-04-05",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17393,
+        "home_team": "Tottenham",
+        "away_team": "Watford",
+        "date": "2017-04-08",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17392,
+        "home_team": "West Ham",
+        "away_team": "Swansea",
+        "date": "2017-04-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17388,
+        "home_team": "Manchester City",
+        "away_team": "Hull City",
+        "date": "2017-04-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17391,
+        "home_team": "West Brom",
+        "away_team": "Southampton",
+        "date": "2017-04-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17389,
+        "home_team": "Middlesbrough",
+        "away_team": "Burnley",
+        "date": "2017-04-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17390,
+        "home_team": "Stoke City",
+        "away_team": "Liverpool",
+        "date": "2017-04-08",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17387,
+        "home_team": "Bournemouth",
+        "away_team": "Chelsea",
+        "date": "2017-04-08",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17386,
+        "home_team": "Sunderland",
+        "away_team": "Manchester United",
+        "date": "2017-04-09",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17385,
+        "home_team": "Everton",
+        "away_team": "Leicester",
+        "date": "2017-04-09",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17384,
+        "home_team": "Crystal Palace",
+        "away_team": "Arsenal",
+        "date": "2017-04-10",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17383,
+        "home_team": "Tottenham",
+        "away_team": "Bournemouth",
+        "date": "2017-04-15",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17382,
+        "home_team": "Watford",
+        "away_team": "Swansea",
+        "date": "2017-04-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17379,
+        "home_team": "Everton",
+        "away_team": "Burnley",
+        "date": "2017-04-15",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17378,
+        "home_team": "Crystal Palace",
+        "away_team": "Leicester",
+        "date": "2017-04-15",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17380,
+        "home_team": "Stoke City",
+        "away_team": "Hull City",
+        "date": "2017-04-15",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17381,
+        "home_team": "Sunderland",
+        "away_team": "West Ham",
+        "date": "2017-04-15",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17377,
+        "home_team": "Southampton",
+        "away_team": "Manchester City",
+        "date": "2017-04-15",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17376,
+        "home_team": "West Brom",
+        "away_team": "Liverpool",
+        "date": "2017-04-16",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17375,
+        "home_team": "Manchester United",
+        "away_team": "Chelsea",
+        "date": "2017-04-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17374,
+        "home_team": "Middlesbrough",
+        "away_team": "Arsenal",
+        "date": "2017-04-17",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17370,
+        "home_team": "Bournemouth",
+        "away_team": "Middlesbrough",
+        "date": "2017-04-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17373,
+        "home_team": "West Ham",
+        "away_team": "Everton",
+        "date": "2017-04-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17371,
+        "home_team": "Hull City",
+        "away_team": "Watford",
+        "date": "2017-04-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17372,
+        "home_team": "Swansea",
+        "away_team": "Stoke City",
+        "date": "2017-04-22",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17369,
+        "home_team": "Burnley",
+        "away_team": "Manchester United",
+        "date": "2017-04-23",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17368,
+        "home_team": "Liverpool",
+        "away_team": "Crystal Palace",
+        "date": "2017-04-23",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17367,
+        "home_team": "Chelsea",
+        "away_team": "Southampton",
+        "date": "2017-04-25",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17365,
+        "home_team": "Arsenal",
+        "away_team": "Leicester",
+        "date": "2017-04-26",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17366,
+        "home_team": "Middlesbrough",
+        "away_team": "Sunderland",
+        "date": "2017-04-26",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17364,
+        "home_team": "Crystal Palace",
+        "away_team": "Tottenham",
+        "date": "2017-04-26",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17363,
+        "home_team": "Manchester City",
+        "away_team": "Manchester United",
+        "date": "2017-04-27",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17359,
+        "home_team": "Southampton",
+        "away_team": "Hull City",
+        "date": "2017-04-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17362,
+        "home_team": "West Brom",
+        "away_team": "Leicester",
+        "date": "2017-04-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17360,
+        "home_team": "Stoke City",
+        "away_team": "West Ham",
+        "date": "2017-04-29",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17361,
+        "home_team": "Sunderland",
+        "away_team": "Bournemouth",
+        "date": "2017-04-29",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17358,
+        "home_team": "Crystal Palace",
+        "away_team": "Burnley",
+        "date": "2017-04-29",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17357,
+        "home_team": "Manchester United",
+        "away_team": "Swansea",
+        "date": "2017-04-30",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17355,
+        "home_team": "Everton",
+        "away_team": "Chelsea",
+        "date": "2017-04-30",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17356,
+        "home_team": "Middlesbrough",
+        "away_team": "Manchester City",
+        "date": "2017-04-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17354,
+        "home_team": "Tottenham",
+        "away_team": "Arsenal",
+        "date": "2017-04-30",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17353,
+        "home_team": "Watford",
+        "away_team": "Liverpool",
+        "date": "2017-05-01",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17352,
+        "home_team": "West Ham",
+        "away_team": "Tottenham",
+        "date": "2017-05-05",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17351,
+        "home_team": "Manchester City",
+        "away_team": "Crystal Palace",
+        "date": "2017-05-06",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17347,
+        "home_team": "Bournemouth",
+        "away_team": "Stoke City",
+        "date": "2017-05-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17348,
+        "home_team": "Burnley",
+        "away_team": "West Brom",
+        "date": "2017-05-06",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17350,
+        "home_team": "Leicester",
+        "away_team": "Watford",
+        "date": "2017-05-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17349,
+        "home_team": "Hull City",
+        "away_team": "Sunderland",
+        "date": "2017-05-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17346,
+        "home_team": "Swansea",
+        "away_team": "Everton",
+        "date": "2017-05-06",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17345,
+        "home_team": "Liverpool",
+        "away_team": "Southampton",
+        "date": "2017-05-07",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17344,
+        "home_team": "Arsenal",
+        "away_team": "Manchester United",
+        "date": "2017-05-07",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17343,
+        "home_team": "Chelsea",
+        "away_team": "Middlesbrough",
+        "date": "2017-05-08",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17342,
+        "home_team": "Southampton",
+        "away_team": "Arsenal",
+        "date": "2017-05-10",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17341,
+        "home_team": "Everton",
+        "away_team": "Watford",
+        "date": "2017-05-12",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17340,
+        "home_team": "West Brom",
+        "away_team": "Chelsea",
+        "date": "2017-05-12",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17339,
+        "home_team": "Manchester City",
+        "away_team": "Leicester",
+        "date": "2017-05-13",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17336,
+        "home_team": "Bournemouth",
+        "away_team": "Burnley",
+        "date": "2017-05-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17337,
+        "home_team": "Middlesbrough",
+        "away_team": "Southampton",
+        "date": "2017-05-13",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17338,
+        "home_team": "Sunderland",
+        "away_team": "Swansea",
+        "date": "2017-05-13",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17335,
+        "home_team": "Stoke City",
+        "away_team": "Arsenal",
+        "date": "2017-05-13",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17334,
+        "home_team": "Crystal Palace",
+        "away_team": "Hull City",
+        "date": "2017-05-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17333,
+        "home_team": "West Ham",
+        "away_team": "Liverpool",
+        "date": "2017-05-14",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17332,
+        "home_team": "Tottenham",
+        "away_team": "Manchester United",
+        "date": "2017-05-14",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17331,
+        "home_team": "Chelsea",
+        "away_team": "Watford",
+        "date": "2017-05-15",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17330,
+        "home_team": "Arsenal",
+        "away_team": "Sunderland",
+        "date": "2017-05-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17329,
+        "home_team": "Manchester City",
+        "away_team": "West Brom",
+        "date": "2017-05-16",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17328,
+        "home_team": "Southampton",
+        "away_team": "Manchester United",
+        "date": "2017-05-17",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17327,
+        "home_team": "Leicester",
+        "away_team": "Tottenham",
+        "date": "2017-05-18",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17323,
+        "home_team": "Manchester United",
+        "away_team": "Crystal Palace",
+        "date": "2017-05-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17326,
+        "home_team": "Watford",
+        "away_team": "Manchester City",
+        "date": "2017-05-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17322,
+        "home_team": "Liverpool",
+        "away_team": "Middlesbrough",
+        "date": "2017-05-21",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17324,
+        "home_team": "Southampton",
+        "away_team": "Stoke City",
+        "date": "2017-05-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17317,
+        "home_team": "Arsenal",
+        "away_team": "Everton",
+        "date": "2017-05-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 3
+    },
+    {
+        "id": 17318,
+        "home_team": "Burnley",
+        "away_team": "West Ham",
+        "date": "2017-05-21",
+        "home_team_sentiment": 3,
+        "away_team_sentiment": 2
+    },
+    {
+        "id": 17321,
+        "home_team": "Leicester",
+        "away_team": "Bournemouth",
+        "date": "2017-05-21",
+        "home_team_sentiment": 2,
+        "away_team_sentiment": 4
+    },
+    {
+        "id": 17319,
+        "home_team": "Chelsea",
+        "away_team": "Sunderland",
+        "date": "2017-05-21",
+        "home_team_sentiment": 5,
+        "away_team_sentiment": 1
+    },
+    {
+        "id": 17320,
+        "home_team": "Hull City",
+        "away_team": "Tottenham",
+        "date": "2017-05-21",
+        "home_team_sentiment": 1,
+        "away_team_sentiment": 5
+    },
+    {
+        "id": 17325,
+        "home_team": "Swansea",
+        "away_team": "West Brom",
+        "date": "2017-05-21",
+        "home_team_sentiment": 4,
+        "away_team_sentiment": 2
+    }
+]

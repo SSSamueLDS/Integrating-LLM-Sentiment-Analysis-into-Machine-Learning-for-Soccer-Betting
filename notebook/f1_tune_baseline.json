@@ -1,0 +1,92 @@
+{
+    "model": [
+        "logistic_regression",
+        "svc",
+        "random_forest",
+        "xgboost"
+    ],
+    "f1_score": [
+        {
+            "training": 0.45959727213195206,
+            "testing": 0.4629735570517353,
+            "optimization_best": 0.47195855678226656
+        },
+        {
+            "training": 0.4489224526722445,
+            "testing": 0.46196740930275926,
+            "optimization_best": 0.4590660077385741
+        },
+        {
+            "training": 0.4745180171592619,
+            "testing": 0.4229413996855857,
+            "optimization_best": 0.465082139380141
+        },
+        {
+            "training": 0.48238618722795,
+            "testing": 0.41849530337772217,
+            "optimization_best": 0.4668784967053265
+        }
+    ],
+    "accuracy": [
+        {
+            "training": 0.5338248048568951,
+            "testing": 0.5333333333333333
+        },
+        {
+            "training": 0.52601908065915,
+            "testing": 0.5363636363636364
+        },
+        {
+            "training": 0.5555073720728534,
+            "testing": 0.5060606060606061
+        },
+        {
+            "training": 0.559410234171726,
+            "testing": 0.4909090909090909
+        }
+    ],
+    "log_loss": [
+        {
+            "training": 0.9989667542868238,
+            "testing": 1.007404952851518
+        },
+        {
+            "training": 1.000352342259321,
+            "testing": 1.0137891743124845
+        },
+        {
+            "training": 0.935928709989626,
+            "testing": 1.0071869684455148
+        },
+        {
+            "training": 0.9842405869988504,
+            "testing": 1.0297052402265152
+        }
+    ],
+    "best_hyperparameters": [
+        {
+            "penalty": "l2",
+            "C": 0.01,
+            "solver": "liblinear"
+        },
+        {
+            "kernel": "linear",
+            "C": 0.13333767922876164,
+            "gamma": "auto"
+        },
+        {
+            "n_estimators": "90",
+            "max_depth": "5",
+            "criterion": "gini"
+        },
+        {
+            "n_estimators": "52",
+            "max_depth": "4",
+            "learning_rate": 0.017396674654557888,
+            "subsample": 0.764076863618452,
+            "gamma": 0.08809481461885464,
+            "reg_lambda": 0.0,
+            "reg_alpha": 0.04608970647838746
+        }
+    ]
+}

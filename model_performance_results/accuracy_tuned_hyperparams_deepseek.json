@@ -1,0 +1,26 @@
+{
+    "logistic_regression": {
+        "penalty": "l1",
+        "C": 0.026565443191494773,
+        "solver": "saga"
+    },
+    "svc": {
+        "kernel": "linear",
+        "C": 0.4649617447336333,
+        "gamma": "scale"
+    },
+    "random_forest": {
+        "n_estimators": "58",
+        "max_depth": "3",
+        "criterion": "gini"
+    },
+    "xgboost": {
+        "n_estimators": "50",
+        "max_depth": "3",
+        "learning_rate": 0.0322565249994219,
+        "subsample": 0.845642420678127,
+        "gamma": 0.0924446698355658,
+        "reg_lambda": 0.0,
+        "reg_alpha": 0.006880751317415723
+    }
+}

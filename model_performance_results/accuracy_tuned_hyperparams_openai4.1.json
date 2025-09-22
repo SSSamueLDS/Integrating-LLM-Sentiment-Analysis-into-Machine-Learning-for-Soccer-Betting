@@ -1,0 +1,27 @@
+{
+    "logistic_regression": {
+        "penalty": "elasticnet",
+        "C": 0.014304585645563646,
+        "solver": "saga",
+        "l1_ratio": 0.9639288250654785
+    },
+    "svc": {
+        "kernel": "linear",
+        "C": 0.4649617447336333,
+        "gamma": "scale"
+    },
+    "random_forest": {
+        "n_estimators": "93",
+        "max_depth": "2",
+        "criterion": "entropy"
+    },
+    "xgboost": {
+        "n_estimators": "62",
+        "max_depth": "3",
+        "learning_rate": 0.013053972649012455,
+        "subsample": 0.7645448514999554,
+        "gamma": 0.08980749080847754,
+        "reg_lambda": 0.36770021996242247,
+        "reg_alpha": 0.7234664632689608
+    }
+}

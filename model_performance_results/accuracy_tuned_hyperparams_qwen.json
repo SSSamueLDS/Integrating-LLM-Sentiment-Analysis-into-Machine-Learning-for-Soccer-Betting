@@ -1,0 +1,26 @@
+{
+    "logistic_regression": {
+        "penalty": "l1",
+        "C": 0.014761241350007847,
+        "solver": "liblinear"
+    },
+    "svc": {
+        "kernel": "linear",
+        "C": 0.34216887183554157,
+        "gamma": "scale"
+    },
+    "random_forest": {
+        "n_estimators": "75",
+        "max_depth": "4",
+        "criterion": "entropy"
+    },
+    "xgboost": {
+        "n_estimators": "50",
+        "max_depth": "3",
+        "learning_rate": 0.01,
+        "subsample": 0.7382645049192086,
+        "gamma": 0.0785678993540045,
+        "reg_lambda": 0.0,
+        "reg_alpha": 0.0
+    }
+}
